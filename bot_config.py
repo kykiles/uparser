@@ -1,4 +1,5 @@
 from configparser import ConfigParser
+import codecs
 
 
 def config_connect(path):
@@ -11,7 +12,7 @@ class ConfigBot(ConfigParser):
     def __init__(self):
         ConfigParser.__init__(self)
         self.config = ConfigParser()
-        self.config.read('config.ini')
+        self.config.read_file(codecs.open('config.ini', 'r', 'utf8'))
 
     def get_option(self, section, option):
         return self.config[section][option]
