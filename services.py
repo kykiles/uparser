@@ -13,7 +13,7 @@ class Services:
     def __init__(self):
         self._PATH = os.path.dirname(os.path.abspath(__file__))
         self._PARSER = ParserFilms()
-        self._DATA = JsonWorker.json_to_dict(f'{self._PATH}\\files\\films_db.json')
+        self._DATA = JsonWorker.json_to_dict('files\\films_db.json')
         self._PICS = {}
 
     @staticmethod
