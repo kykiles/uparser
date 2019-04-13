@@ -12,7 +12,7 @@ class ConfigBot(ConfigParser):
     def __init__(self):
         ConfigParser.__init__(self)
         self.config = ConfigParser()
-        self.config.read_file(codecs.open('config.ini', 'r', 'utf8'))
+        self.config.read_file(codecs.open('config.ini', 'r', 'utf-8'))
 
     def get_option(self, section, option):
         return self.config[section][option]
