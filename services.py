@@ -13,7 +13,7 @@ class Services:
     def __init__(self):
         self._PATH = os.path.dirname(os.path.abspath(__file__))
         self._PARSER = ParserFilms()
-        self._DATA = JsonWorker.json_to_dict('files\\films_db.json')
+        self._DATA = JsonWorker.json_to_dict('films_db.json')
         self._PICS = {}
 
     @staticmethod
@@ -133,7 +133,7 @@ class Services:
         JsonWorker.dict_to_json(_path, user)
 
     def top250(self):
-        top250 = JsonWorker.json_to_dict(os.path.join(self._PATH, 'files\\films_with_rating.json'))
+        top250 = JsonWorker.json_to_dict(os.path.join(self._PATH, 'films_with_rating.json'))
         return top250
 
     def description_by_code(self, code):

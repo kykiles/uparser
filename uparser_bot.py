@@ -156,13 +156,7 @@ def help_option(message):
 
 @bot.message_handler(func=lambda message: True)
 def search(message):
-    if message.from_user.id:
-        user = {
-            'id': message.from_user.id,
-            'first_name': message.from_user.first_name,
-            'last_name': message.from_user.last_name
-        }
-        services.user_saver(user)
+    pass
 
 
 @bot.inline_handler(lambda query: query.query)
