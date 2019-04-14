@@ -171,12 +171,12 @@ def default_query(inline_query):
 def callback_download(call):
     if not call.data:
         return
-    code = call.data.split('_')[1]
-    if 'download_' in call.data:
-        torrent_path = services.get_path(code)
-        torrent = open(torrent_path, 'rb')
-        bot.send_document(call.from_user.id, torrent).wait()
-        return
+    # code = call.data.split('_')[1]
+    # if 'download_' in call.data:
+    #     torrent_path = services.get_path(code)
+    #     torrent = open(torrent_path, 'rb')
+    #     bot.send_document(call.from_user.id, torrent).wait()
+    #     return
 
 
 @server.route('/' + TOKEN, methods=['POST'])
