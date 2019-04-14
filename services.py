@@ -1,9 +1,7 @@
 import os.path
-import re
+
 from configparser import ConfigParser
 from multiprocessing import Pool, cpu_count
-
-import telebot
 
 from jsonworker import JsonWorker
 from engine import ParserFilms
@@ -121,29 +119,6 @@ class Services:
     def get_name_by_code(self, code):
         return self._DATA.get(code)
 
-    def user_saver(self, data):
-        _path = os.path.join(self._PATH, 'files\\users.json')
-        users_data = JsonWorker.json_to_dict(_path)
-        user = {
-            'id': data['id'],
-            'first_name': data['first_name'],
-            'last_name': data['last_name']
-        }
-        users_data.update(user)
-        JsonWorker.dict_to_json(_path, user)
-
     def top250(self):
         top250 = JsonWorker.json_to_dict(os.path.join(self._PATH, 'films_with_rating.json'))
         return top250
-
-    def description_by_code(self, code):
-        html_text = self._PARSER.get_html_topic(code)
-        html_text = re.sub(r':?</span>:?', ':', html_text)
-        html_text = re.sub(r'<br>', '', html_text)
-        html_text = self._PARSER.page_text(html_text)
-        return telebot.util.split_string(html_text, 4096)[0]
-
-
-if __name__ == '__main__':
-    services = Services()
-    print(services.thumb_url('5572173'))

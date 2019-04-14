@@ -8,23 +8,9 @@ from bot_config import ConfigBot
 
 class ParserFilms(object):
     def __init__(self):
-        ParserFilms.make_dirs()  # Создание директорий для торрент файлов если она не сущ.
         self._session = requests.Session()
         self._config = ConfigBot()
         self._HEADERS = self._config.get_dict('User-Agent')
-
-    @staticmethod
-    def make_dirs():
-        _path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '\\torrent_files')
-        if not os.path.isdir(_path):
-            os.makedirs(_path)
-
-    @staticmethod
-    def get_list_pages_codes(last_page):
-        """Формирует список из параметров всех страниц с первой по последнию"""
-        if not last_page:
-            return
-        return [n * 50 for n in range(last_page)]
 
     def get_html_by_url(self, f, start=None):
         """f: кодовый параметр категории фильмов, start: атрибут отвечающий за номер страницы"""
@@ -45,27 +31,6 @@ class ParserFilms(object):
         if not href:
             return
         return href[0].get('title')
-
-    @staticmethod
-    def page_text(html_page):
-        """Формирует строку текста со странички с фильмом"""
-        tree = html.fromstring(html_page)
-        description = tree.xpath('//div[@class="post_body"]//span[@class="post-b"]')
-        if not description:
-            return
-        temp = []
-        for text in description:
-            if text.text:
-                temp.append(text.text.strip())
-        return '\n'.join(temp)
-
-    @staticmethod
-    def searcher(html_text, regex):
-        """Ищет регуляркой строку"""
-        result = re.search(regex, html_text)
-        if result is None:
-            return
-        return result.group(1).strip()
 
     @staticmethod
     def name_splitter(name):

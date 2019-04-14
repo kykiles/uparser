@@ -1,15 +1,18 @@
 from random import choice
+import os
 
 import telebot
 from telebot import types
+from flask import Flask, request
 
 from services import Services
 
-# bot = telebot.TeleBot(Services.config_get_option('config.ini', 'Token', 'token'))
-bot = telebot.AsyncTeleBot(Services.config_get_option('config.ini', 'Token', 'token'))
 # 📽️
+# bot = telebot.TeleBot(Services.config_get_option('config.ini', 'Token', 'token'))
 
-about = '''Поисковик - загрузчик фильмов из категории: Зарубежное кино. Not official RuTracker.org'''
+TOKEN = Services.config_get_option('config.ini', 'Token', 'token')
+bot = telebot.AsyncTeleBot(TOKEN)
+server = Flask(__name__)
 
 
 def create_inline_button(label, callback_data=None, url=None, query=None):
@@ -154,11 +157,6 @@ def help_option(message):
     bot.send_message(message.chat.id, help_text)
 
 
-@bot.message_handler(func=lambda message: True)
-def search(message):
-    pass
-
-
 @bot.inline_handler(lambda query: query.query)
 def query_text(inline_query):
     switch_query(inline_query)
@@ -181,10 +179,19 @@ def callback_download(call):
         return
 
 
-def bot_run():
-    bot.polling(none_stop=True)
+@server.route('/' + TOKEN, methods=['POST'])
+def get_message():
+    bot.process_new_updates([telebot.types.Update.de_json(request.stream.read().decode("utf-8"))])
+    return "OK!", 200
+
+
+@server.route("/")
+def webhook():
+    bot.remove_webhook()
+    bot.set_webhook(url='https://sleepy-earth-26472.herokuapp.com/' + TOKEN)
+    return "OK!", 200
 
 
 if __name__ == '__main__':
     services = Services()
-    bot_run()
+    server.run(host="0.0.0.0", port=int(os.environ.get('PORT', 5000)))
