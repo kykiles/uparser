@@ -189,7 +189,7 @@ def get_message():
 @server.route("/")
 def webhook():
     bot.remove_webhook()
-    bot.set_webhook(url='https://rocky-castle-25538.herokuapp.com/' + TOKEN)
+    bot.set_webhook(url='https://uparser.herokuapp.com/' + TOKEN)
     return "OK!", 200
 
 
