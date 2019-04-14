@@ -188,7 +188,7 @@ def get_message():
 @server.route("/")
 def webhook():
     bot.remove_webhook()
-    bot.set_webhook(url='https://sleepy-earth-26472.herokuapp.com/' + TOKEN)
+    bot.set_webhook(url='https://tranquil-castle-93493.herokuapp.com/' + TOKEN)
     return "OK!", 200
 
 
