@@ -177,7 +177,7 @@ def callback_download(call):
     code = call.data.split('_')[1]
     if 'download_' in call.data:
         file, filename = services.make_file(code)
-        bot.send_document(call.from_user.id, file, caption=filename).wait()
+        bot.send_document(call.from_user.id, file).wait()
 
     # if 'download_' in call.data:
     #     torrent_path = services.get_path(code)
