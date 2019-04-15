@@ -1,5 +1,5 @@
 import os.path
-import StringIO
+from io import StringIO
 
 from configparser import ConfigParser
 from multiprocessing import Pool, cpu_count
