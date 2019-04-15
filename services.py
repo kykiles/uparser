@@ -113,7 +113,7 @@ class Services:
         filename, received_file = self._PARSER.download_torrent_file(code, self._DATA.get(code)['Description'])
         file = BytesIO()
         file.write(received_file)
-        return file.getvalue(), filename
+        return file.read(), filename
 
     def get_path(self, code):
         file_name = Services.file_in_directory(code, os.path.join(self._PATH, 'torrent_files'))
