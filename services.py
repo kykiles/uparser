@@ -111,10 +111,9 @@ class Services:
 
     def make_file(self, code):
         filename, received_file = self._PARSER.download_torrent_file(code, self._DATA.get(code)['Description'])
-        # file = BytesIO()
-        # file.write(received_file)
-        # file.seek(0, 0)
-        file = open(received_file)
+        file = BytesIO()
+        file.write(received_file)
+        file.seek(0, 0)
         return file, filename
 
     def get_path(self, code):
