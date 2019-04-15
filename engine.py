@@ -1,4 +1,3 @@
-import os.path
 import requests
 from lxml import html
 import re
@@ -53,8 +52,3 @@ class ParserFilms(object):
 
         file_name = film_code + '_' + ParserFilms.name_splitter(file_name).split('[', 1)[0]
         return file_name, response.content
-        # path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'torrent_files\\' + file_name + '.torrent')
-        # with open(path, 'bw') as f:
-        #     for chunk in response.iter_content(1024):
-        #         f.write(chunk)
-        # return path
