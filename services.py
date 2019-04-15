@@ -1,5 +1,5 @@
 import os.path
-from io import StringIO
+from io import BytesIO
 
 from configparser import ConfigParser
 from multiprocessing import Pool, cpu_count
@@ -111,7 +111,7 @@ class Services:
 
     def make_file(self, code):
         filename, received_file = self._PARSER.download_torrent_file(code, self._DATA.get(code)['Description'])
-        file = StringIO()
+        file = BytesIO()
         file.write(received_file)
         file.seek(0, 0)
         return file, filename
