@@ -1,4 +1,5 @@
 import os.path
+import StringIO
 
 from configparser import ConfigParser
 from multiprocessing import Pool, cpu_count
@@ -108,6 +109,13 @@ class Services:
             return {code: Services.get_empty_thumb_url()}
         return {code: url}
 
+    def make_file(self, code):
+        file = StringIO.StringIO()
+        filename, received_file = self._PARSER.download_torrent_file(code, self._DATA.get(code)['Description'])
+        file.write(received_file)
+        file.seek(0, 0)
+        return file, filename
+
     def get_path(self, code):
         file_name = Services.file_in_directory(code, os.path.join(self._PATH, 'torrent_files'))
         if file_name:
@@ -118,6 +126,12 @@ class Services:
 
     def get_name_by_code(self, code):
         return self._DATA.get(code)
+
+    def get_films_db_data(self):
+        return self._DATA
+
+    def get_pics_url_data(self):
+        return self._PICS
 
     def top250(self):
         top250 = JsonWorker.json_to_dict(os.path.join(self._PATH, 'films_with_rating.json'))
