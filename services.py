@@ -110,7 +110,7 @@ class Services:
         return {code: url}
 
     def make_file(self, code):
-        file = StringIO.StringIO()
+        file = StringIO()
         filename, received_file = self._PARSER.download_torrent_file(code, self._DATA.get(code)['Description'])
         file.write(received_file)
         file.seek(0, 0)
