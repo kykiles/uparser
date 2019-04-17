@@ -39,7 +39,7 @@ def film_poster(code, description=None):
     gb = description.get('GB')
     download_btn = create_inline_button('💾', f'download_{code}')
     url = f"{services.config_get_option('config.ini', 'Url', 'url_viewtopic')}?t={code}"
-    pic_url = services.get_pic_url_by_code(code)  # Миниатюра из кэш
+    pic_url = description.get('pic_url')
     description_btn = create_inline_button('🔎', f'description_{code}', url=url)
     download_markup = create_inline_row(2, description_btn, download_btn)
 
@@ -89,7 +89,7 @@ def switch_query(inline_query, default=None):
         offset = '1'
 
     page = result[len(offset)]
-    services.get_thumbs_from_list(page.keys())  # Подгружает миниатюры
+    # services.get_thumbs_from_list(page.keys())  # Подгружает миниатюры
 
     for code, description in page.items():
         description = film_poster(code, description)[code]
