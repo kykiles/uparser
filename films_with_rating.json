@@ -1,1171 +1,1354 @@
 {
-    "3186952": {
-        "Description": "Побег из Шоушенка / The Shawshank Redemption (Фрэнк Дарабонт / Frank Darabont) [1994, США, драма, триллер, HDRip] MVO (ТВ Центр)",
-        "Downloads": 149301,
-        "Seeders": "32",
-        "Leechers": "1",
-        "GB": "1.46 GB"
-    },
-    "3295633": {
-        "Description": "Список Шиндлера / Schindler's List (Стивен Спилберг / Steven Spielberg) [1993, США, драма, военный, BDRip] Dub",
-        "Downloads": 115869,
-        "Seeders": "156",
-        "Leechers": "11",
-        "GB": "1.46 GB"
-    },
-    "4544096": {
-        "Description": "Властелин колец: Возвращение Короля / The Lord of the Rings: The Return Of The King (Питер Джексон / Peter Jackson) [2003, Германия, США, Новая Зеландия, фэнтези, приключения, BDRip] (Театральная версия / Theatrical Editions) Dub + sub",
-        "Downloads": 85804,
-        "Seeders": "55",
-        "Leechers": "2",
-        "GB": "1.46 GB"
-    },
-    "1149720": {
-        "Description": "Криминальное чтиво / Бульварное чтиво / Pulp Fiction (Квентин Тарантино / Quentin Tarantino) [1994, США, боевик, драма, криминал, BDRip-AVC] DUB + AVO (Гоблин) + Original + Sub",
-        "Downloads": 215439,
-        "Seeders": "258",
-        "Leechers": "10",
-        "GB": "1.45 GB"
-    },
-    "2865047": {
-        "Description": "Хороший, плохой, злой / The Good, the Bad and the Ugly / Il buono, il brutto, il cattivo (Серджио Леоне / Sergio Leone) [1966, Италия, Испания, Германия, Вестерн, боевик, приключения, BDRip] MVO (Петербург, 5й канал)",
-        "Downloads": 84408,
-        "Seeders": "47",
-        "Leechers": "1",
-        "GB": "1.46 GB"
-    },
-    "4212145": {
-        "Description": "Бойцовский клуб / Fight Club (Дэвид Финчер / David Fincher) [1999, США, Германия, триллер, драма, криминал, детектив, BDRip-AVC] Dub + Original + Sub (rus, eng)",
-        "Downloads": 149878,
-        "Seeders": "137",
-        "Leechers": "1",
-        "GB": "2.94 GB"
-    },
-    "4544100": {
-        "Description": "Властелин колец: Братство кольца / The Lord of the Rings: The Fellowship of the Ring (Питер Джексон / Peter Jackson) [2001, США, Новая Зеландия, фэнтези, приключения, BDRip] (Театральная версия / Theatrical Editions) Dub",
-        "Downloads": 99515,
-        "Seeders": "50",
-        "Leechers": "1",
-        "GB": "1.46 GB"
-    },
-    "3836653": {
-        "Description": "Форрест Гамп / Forrest Gump (Роберт Земекис / Robert Zemeckis) [1994, США, драма, мелодрама, трагикомедия, HDRip] MVO (СТС)",
-        "Downloads": 139153,
-        "Seeders": "75",
-        "Leechers": "2",
-        "GB": "1.46 GB"
-    },
-    "4636866": {
-        "Description": "Начало / Inception (Кристофер Нолан / Christopher Nolan) [2010, США, Великобритания, фантастика, боевик, триллер, драма, BDRip] Dub",
-        "Downloads": 93983,
-        "Seeders": "79",
-        "Leechers": "6",
-        "GB": "1.46 GB"
-    },
-    "4544099": {
-        "Description": "Властелин колец: Две крепости / Две башни / The Lord of the Rings: The Two Towers (Питер Джексон / Peter Jackson) [2002, США, Германия, Новая Зеландия, фэнтези, приключения, BDRip] (Театральная версия / Theatrical Editions) Dub + sub",
-        "Downloads": 92519,
-        "Seeders": "57",
-        "Leechers": "2",
-        "GB": "1.46 GB"
-    },
-    "2491218": {
-        "Description": "Пролетая над гнездом кукушки / One Flew Over the Cuckoo's Nest (Милош Форман / Milos Forman) [1975, США, драма, BDRip] Dub",
-        "Downloads": 95281,
+    "5099838": {
+        "Description": "Побег из Шоушенка / The Shawshank Redemption (Фрэнк Дарабонт / Frank Darabont) [1994, США, Драма, криминал, BDRip-AVC] MVO (Союз Видео) + 3x AVO + Sub Rus, Eng + Original Eng",
+        "Downloads": 8254,
         "Seeders": "30",
+        "Leechers": "12",
+        "GB": "6.17 GB",
+        "pic_url": "http://i69.fastpic.ru/big/2015/1007/b5/78aec050286621c5dcc5e59b79332fb5.png"
+    },
+    "4739544": {
+        "Description": "Список Шиндлера / Schindler's List (Стивен Спилберг / Steven Spielberg) [1993, США, драма, биография, история, BDRip-AVC] Dub + MVO + Original (Eng) + Sub (Rus, Eng)",
+        "Downloads": 29397,
+        "Seeders": "70",
+        "Leechers": "4",
+        "GB": "4.59 GB",
+        "pic_url": "http://i62.fastpic.ru/big/2014/0515/ee/c936434dde339c15398032e75db0f8ee.jpg"
+    },
+    "4781097": {
+        "Description": "Властелин колец: Возвращение Короля / The Lord of the Rings: The Return of the King (Питер Джексон / Peter Jackson) [2003, Новая Зеландия, США, фэнтези, приключения, HDRip-AVC] [Расширенная версия / Extended Edition] Dub + Sub (Rus, Eng)",
+        "Downloads": 76438,
+        "Seeders": "152",
+        "Leechers": "3",
+        "GB": "1.46 GB",
+        "pic_url": "http://i63.fastpic.ru/big/2014/0604/cc/b23a33e3314a974b84a23cced541e3cc.jpg"
+    },
+    "3578115": {
+        "Description": "Криминальное чтиво / Pulp Fiction (Квентин Тарантино / Quentin Tarantino) [1994, США, Криминальная драма, Триллер, HDRip] DVO (ОРТ)",
+        "Downloads": 23954,
+        "Seeders": "12",
         "Leechers": "0",
-        "GB": "1.46 GB"
+        "GB": "1.45 GB",
+        "pic_url": "http://i6.imageban.ru/out/2014/01/18/0b979085a7430c0dd1ac242f8cc0e287.png"
     },
-    "1377765": {
-        "Description": "Славные парни / Goodfellas (Мартин Скорсезе / Martin Scorsese) [1990, США, драма, криминал, биография, BDRip-AVC]",
-        "Downloads": 34793,
-        "Seeders": "19",
-        "Leechers": "2",
-        "GB": "2.83 GB"
+    "4790511": {
+        "Description": "Хороший, плохой, злой / Il Buono, il brutto, il cattivo (Серджио Леоне / Sergio Leone) [1966, Италия, Испания, Германия (ФРГ), приключения, вестерн, BDRip-AVC] [Extended US Version] 2x MVO + DVO + 2x AVO + Original (Eng) + Sub (Rus, Eng)",
+        "Downloads": 3129,
+        "Seeders": "3",
+        "Leechers": "0",
+        "GB": "9.1 GB",
+        "pic_url": "http://i66.fastpic.ru/big/2014/0721/a2/dd3b867419c0ff4877abd5637a4d4aa2.png"
     },
-    "4513186": {
-        "Description": "Матрица / The Matrix (Энди Вачовски / Andy Wachowski, Ларри Вачовски / Larry Wachowski) [1999, США, Австралия, фантастика, боевик, HDDVDRip] Dub",
-        "Downloads": 75170,
-        "Seeders": "62",
+    "346651": {
+        "Description": "Бойцовский клуб / Fight Club (Дэвид Финчер /David Fincher) [1999, США, Драма, HDTVRip-AVC] DUB + MVO + AVO (Гаврилов)+ ENG. + sub",
+        "Downloads": 10996,
+        "Seeders": "5",
         "Leechers": "1",
-        "GB": "1.46 GB"
+        "GB": "2.17 GB",
+        "pic_url": "http://kinomania.ru/movies/f/Fight_Club/posters/2.jpg"
+    },
+    "5309203": {
+        "Description": "Властелин колец: Братство кольца / The Lord of the Rings: The Fellowship of the Ring (Питер Джексон / Peter Jackson) [2001, США, Новая Зеландия, фэнтези, боевик, приключения, BDRip-AVC] [Extended Edition] DUB + MVO (R5) + Original + Sub (Rus, Eng)",
+        "Downloads": 57142,
+        "Seeders": "267",
+        "Leechers": "9",
+        "GB": "7.95 GB",
+        "pic_url": "http://i85.fastpic.ru/big/2016/1110/64/8b61a81656038e19766d1a14df418d64.png"
+    },
+    "249741": {
+        "Description": "Форрест Гамп / Forrest Gump (Роберт Земекис /Robert Zemeckis) [1994, США, Драма, DVDRip] AVO Гаврилов + Карповский",
+        "Downloads": 1538,
+        "Seeders": "12",
+        "Leechers": "1",
+        "GB": "2 GB",
+        "pic_url": "http://i59.fastpic.ru/big/2015/0225/8a/28687260e16ffe300fe52006ce45cc8a.png"
+    },
+    "5183406": {
+        "Description": "Начало / Inception (Кристофер Нолан / Christopher Nolan) [2010, США, Фантастика, боевик, триллер, драма, детектив, BDRip-AVC] Dub + DVO (BBC Saint-Petersburg) + DVO (Кубик в кубе) + AVO (Гаврилов) + AVO (Сербин) + Original (Eng) + Sub (Rus, Eng)",
+        "Downloads": 23130,
+        "Seeders": "78",
+        "Leechers": "41",
+        "GB": "5.65 GB",
+        "pic_url": "http://i76.fastpic.ru/big/2016/0305/8c/7d0be9c2bf60c0975a17fbe0ea5d4b8c.png"
+    },
+    "5310625": {
+        "Description": "Властелин колец: Две крепости / The Lord of the Rings: The Two Towers (Питер Джексон / Peter Jackson) [2002, США, Новая Зеландия, фэнтези, боевик, приключения, BDRip-AVC] [Extended Edition] DUB + MVO (R5) + Original + Sub (Rus, Eng)",
+        "Downloads": 43648,
+        "Seeders": "234",
+        "Leechers": "2",
+        "GB": "9.19 GB",
+        "pic_url": "http://i84.fastpic.ru/big/2016/1113/7e/91e8d64424934fc46ef3d0e4563ab87e.png"
+    },
+    "4310116": {
+        "Description": "Пролетая над гнездом кукушки / One Flew Over the Cuckoo's Nest (Милош Форман / Milos Forman) [1975, США, драма, BDRip] MVO (Киномания)",
+        "Downloads": 88935,
+        "Seeders": "95",
+        "Leechers": "0",
+        "GB": "1.46 GB",
+        "pic_url": "http://i1.fastpic.ru/big/2009/1205/86/8a1790732e968a2e17c38c89bcb09986.jpeg"
+    },
+    "5013184": {
+        "Description": "Славные парни / Goodfellas (Мартин Скорсезе / Martin Scorsese) [1990, США, Драма, криминал, биография, BDRip] Dub (Мост-Видео)",
+        "Downloads": 26075,
+        "Seeders": "127",
+        "Leechers": "3",
+        "GB": "1.46 GB",
+        "pic_url": "http://i71.fastpic.ru/big/2015/0526/08/900f5b482c07c190423590864b754708.png"
+    },
+    "5552336": {
+        "Description": "Матрица / The Matrix (Энди Вачовски, Ларри Вачовски / Andy Wachowski, Larry Wachowski) [1999, США, Фантастика, боевик, приключения, HDTVRip-AVC] [Open Matte] DUB + AVO (Визгунов) + Sub Eng Rus + Original Eng",
+        "Downloads": 13317,
+        "Seeders": "178",
+        "Leechers": "2",
+        "GB": "2.94 GB",
+        "pic_url": "http://i105.fastpic.ru/big/2018/0420/94/364ab573188ab91bdc7b2ab3670e4394.png"
     },
     "3593332": {
         "Description": "Семь / Se7en / Seven (Дэвид Финчер / David Fincher) [1995, США, триллер, драма, криминал, детектив, HDRip] [Remastered / Коллекционное издание] MVO (Россия)",
-        "Downloads": 129088,
+        "Downloads": 129190,
         "Seeders": "72",
-        "Leechers": "4",
-        "GB": "1.46 GB"
+        "Leechers": "0",
+        "GB": "1.46 GB",
+        "pic_url": "http://i30.fastpic.ru/big/2011/1007/3e/a3ac9b0336f2de9f0216370a4731573e.png"
     },
-    "4030597": {
-        "Description": "Молчание ягнят / The Silence of the Lambs (Джонатан Демме / Jonathan Demme) [1991, США, триллер, криминал, детектив, BDRip] Dub + MVO (Видеосервис) + Original + Sub (Rus x4, Eng)",
-        "Downloads": 30473,
-        "Seeders": "28",
+    "1940982": {
+        "Description": "Молчание ягнят / The Silence of the Lambs (Джонатан Демме / Jonathan Demme) [1991, США, триллер, криминал, BDRip-AVC, 720p] Dub + 3 x MVO + 3 x AVO + Original + Sub",
+        "Downloads": 27919,
+        "Seeders": "40",
         "Leechers": "2",
-        "GB": "2.56 GB"
+        "GB": "3.89 GB",
+        "pic_url": "http://s39.radikal.ru/i083/0906/f3/4881b7932360.jpg"
     },
     "3304312": {
         "Description": "Эта замечательная жизнь / Эта прекрасная жизнь / It's a Wonderful Life (Фрэнк Капра / Frank Capra) [1946, США, фэнтези, мелодрама, драма, BDRip] MVO (ОРТ)",
-        "Downloads": 74527,
-        "Seeders": "85",
-        "Leechers": "6",
-        "GB": "1.46 GB"
+        "Downloads": 74589,
+        "Seeders": "100",
+        "Leechers": "3",
+        "GB": "1.46 GB",
+        "pic_url": "http://s014.radikal.ru/i329/1705/03/534052f1e69e.jpg"
     },
     "4052918": {
         "Description": "Жизнь прекрасна / La vita è bella / Life Is Beautiful (Роберто Бениньи / Roberto Benigni) [1997, Италия, трагикомедия, драма, мелодрама, военный, BDRip-AVC] DVO",
-        "Downloads": 90156,
-        "Seeders": "90",
+        "Downloads": 90222,
+        "Seeders": "71",
         "Leechers": "0",
-        "GB": "1.45 GB"
+        "GB": "1.45 GB",
+        "pic_url": "http://i37.fastpic.ru/big/2012/0508/73/e45d093e6093ed74573c5afbe36cc773.png"
     },
-    "2398569": {
-        "Description": "Спасти рядового Райана / Saving private Ryan (Стивен Спилберг / Steven Spielberg) [1998, США, Военная драма, DVDRip] Dub",
-        "Downloads": 96322,
-        "Seeders": "20",
-        "Leechers": "0",
-        "GB": "1.46 GB"
+    "3945416": {
+        "Description": "Спасти рядового Райана / Saving Private Ryan (Стивен Спилберг / Steven Spielberg) [1998, США, боевик, драма, военный, история, BDRip] DUB + MVO (Карусель) + AVO (Ю.Живов)",
+        "Downloads": 17682,
+        "Seeders": "2",
+        "Leechers": "1",
+        "GB": "1.76 GB",
+        "pic_url": "http://i30.fastpic.ru/big/2012/0216/50/4bfde9d1fcd461843399aa09aa7d6950.png"
     },
     "3500506": {
         "Description": "Подозрительные лица / Обычные подозреваемые / The Usual Suspects (Брайэн Сингер / Bryan Singer) [1995, Германия, США, триллер, криминал, детектив, BDRip] MVO (РТР) + original + sub",
-        "Downloads": 113202,
-        "Seeders": "123",
+        "Downloads": 113383,
+        "Seeders": "116",
+        "Leechers": "1",
+        "GB": "1.46 GB",
+        "pic_url": "http://i28.fastpic.ru/big/2011/1008/d9/dc4001423c1c0ba88c1e6a56a1b097d9.png"
+    },
+    "4630383": {
+        "Description": "Леон: Профессионал / Leon: The Professional (Люк Бессон / Luc Besson) [1994, Франция, триллер, драма, криминал, HDRip-AVC] [Международная версия / International Version] MVO + Original Eng + Sub (Rus,eng)",
+        "Downloads": 35283,
+        "Seeders": "51",
+        "Leechers": "9",
+        "GB": "2.39 GB",
+        "pic_url": "http://i58.fastpic.ru/big/2014/0102/41/58bc3da2ed45b7acd4472fcc98c30741.jpg"
+    },
+    "4808959": {
+        "Description": "Зелёная миля / The Green Mile (Фрэнк Дарабонт / Frank Darabont) [1999 , США, мистика, драма, BDRip-AVC] Dub + Sub (Rus, Eng)",
+        "Downloads": 31918,
+        "Seeders": "95",
         "Leechers": "2",
-        "GB": "1.46 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i47.fastpic.ru/big/2013/0626/be/42ba646b303cf9f8e53fc6fd6db954be.jpg"
     },
-    "3743214": {
-        "Description": "Леон / Леон: Профессионал / Léon / Leon / Leon: The Professional (Люк Бессон / Luc Besson) [1994, Франция, Криминальная драма, триллер, BDRip] [Международная версия / International Version] MVO (R5, Амальгама)",
-        "Downloads": 51348,
-        "Seeders": "27",
-        "Leechers": "1",
-        "GB": "1.46 GB"
+    "5496085": {
+        "Description": "Интерстеллар / Interstellar (Кристофер Нолан / Christopher Nolan) [2014, США, Великобритания, Канада, фантастика, драма, приключения, BDRip] Dub",
+        "Downloads": 15330,
+        "Seeders": "138",
+        "Leechers": "9",
+        "GB": "2.91 GB",
+        "pic_url": "http://i103.fastpic.ru/big/2017/1220/ef/d14fa05ebbafe1d14bab2a5469951def.png"
     },
-    "3211716": {
-        "Description": "Зелёная миля / The Green Mile (Фрэнк Дарабонт / Frank Darabont) [1999, США, Мистика, драма, HDRip] Dub",
-        "Downloads": 122756,
-        "Seeders": "48",
-        "Leechers": "1",
-        "GB": "1.46 GB"
+    "4922308": {
+        "Description": "Психо / Психоз / Psycho (Альфред Хичкок / Alfred Hitchcock) [1960, США, триллер, ужасы, экранизация, BDRip] MVO (1 Канал) + Original Eng",
+        "Downloads": 19874,
+        "Seeders": "51",
+        "Leechers": "2",
+        "GB": "1.46 GB",
+        "pic_url": "http://i58.fastpic.ru/big/2015/0123/ed/a8d15eb783c376bcd3d385034fbb6ced.jpg"
     },
-    "5014745": {
-        "Description": "Интерстеллар / Interstellar (Кристофер Нолан / Christopher Nolan) [2014, США, Фантастика, драма, приключения, BDRip] [IMAX Edition] Dub",
-        "Downloads": 176480,
-        "Seeders": "252",
-        "Leechers": "5",
-        "GB": "1.46 GB"
+    "5655810": {
+        "Description": "Огни большого города / City Lights (Чарльз Чаплин / Charles Chaplin) [1931, США, Драма, мелодрама, комедия, BDRip] DVO (СВ-Дубль)",
+        "Downloads": 1590,
+        "Seeders": "11",
+        "Leechers": "0",
+        "GB": "1.45 GB",
+        "pic_url": "https://i108.fastpic.ru/big/2018/1207/c6/21af689ad76f92a0d958d2b74800e9c6.jpg"
     },
-    "3104756": {
-        "Description": "Психо / Психоз / Psycho (Альфред Хичкок / Alfred Hitchcock) [1960, США, ужасы, триллер, драма , HDRip] MVO + original + sub (rus, eng)",
-        "Downloads": 41273,
+    "3764906": {
+        "Description": "Касабланка / Casablanca (Майкл Кёртиц / Michael Curtiz) [1942, США, драма, мелодрама, военный, BDRip] 7хMVO + AVO (Михалёв) + Sub Rus, eng + Original Eng",
+        "Downloads": 10488,
         "Seeders": "9",
-        "Leechers": "1",
-        "GB": "1.46 GB"
+        "Leechers": "5",
+        "GB": "3.01 GB",
+        "pic_url": "http://i27.fastpic.ru/big/2011/1007/8e/7523175a861d578a5143a2b91514f88e.jpg"
     },
-    "3544690": {
-        "Description": "Огни большого города / City Lights (Чарльз Чаплин / Charles Chaplin) [1931, драма, мелодрама, комедия, немое кино, BDRip] Sub (Rus)",
-        "Downloads": 32966,
-        "Seeders": "45",
+    "4535098": {
+        "Description": "Однажды на Диком Западе / C'era Una Volta il West / Once Upon A Time In The West (Серджио Леоне / Sergio Leone) [1968, США, Италия, вестерн, драма, BDRip] MVO (ОРТ) + MVO (5 Канал СПБ) + DVO (Премьер Видео Фильм)",
+        "Downloads": 6832,
+        "Seeders": "13",
         "Leechers": "0",
-        "GB": "1.45 GB"
+        "GB": "2.7 GB",
+        "pic_url": "http://i58.fastpic.ru/big/2013/0914/be/54e12863fd7e2d44a7061cbf95e42abe.jpg"
     },
-    "4050144": {
-        "Description": "Касабланка / Casablanca (Майкл Кёртиц / Michael Curtiz) [1942, США, драма, мелодрама, военный, BDRip] MVO Film Prestige",
-        "Downloads": 44179,
-        "Seeders": "47",
-        "Leechers": "1",
-        "GB": "1.45 GB"
-    },
-    "47628": {
-        "Description": "Однажды на Диком Западе/Once upon a time in the West [1968, США, вестерн, DVDRip] Серджио Леоне",
-        "Downloads": 42713,
-        "Seeders": "14",
+    "2726357": {
+        "Description": "Пианист / The Pianist (Роман Полански / Roman Polanski) [2002, Франция, Германия, Великобритания, Польша, драма, военный, биография, BDRip-AVC] MVO + original + Sub",
+        "Downloads": 11876,
+        "Seeders": "7",
         "Leechers": "0",
-        "GB": "1.33 GB"
+        "GB": "3.4 GB",
+        "pic_url": "http://i1.fastpic.ru/big/2010/0207/0d/ebb511274ae6305715c52204ccfa6c0d.jpg"
     },
-    "3464622": {
-        "Description": "Пианист / The Pianist (Роман Полански / Roman Polanski) [2002, Германия, Франция, Великобритания, Польша, драма, военный, музыка, биография, BDRip] MVO (1-ый канал)",
-        "Downloads": 89018,
-        "Seeders": "33",
+    "3586447": {
+        "Description": "Новые времена / Modern Times (Чарльз Чаплин / Charles Chaplin) [1936, США, комедия, мелодрама, драма, HDRip] Sub rus",
+        "Downloads": 6842,
+        "Seeders": "4",
+        "Leechers": "0",
+        "GB": "743.6 MB",
+        "pic_url": "http://i22.fastpic.ru/big/2011/0525/28/181a1eec721816e332be8430c7e33928.jpg"
+    },
+    "4069710": {
+        "Description": "1+1 / Неприкасаемые / Intouchables (Оливье Накаш / Olivier Nakache, Эрик Толедано / Eric Toledano) [2011, Франция, драма, комедия, BDRip-AVC] Dub |Лицензия|",
+        "Downloads": 86026,
+        "Seeders": "38",
         "Leechers": "1",
-        "GB": "1.46 GB"
-    },
-    "3066761": {
-        "Description": "Новые времена / Modern Times (Чарльз Чаплин / Charles Chaplin) [1936, США, комедия, мелодрама, драма, немое кино, BDRip] Sub rus",
-        "Downloads": 17702,
-        "Seeders": "29",
-        "Leechers": "1",
-        "GB": "1.45 GB"
-    },
-    "4081476": {
-        "Description": "Неприкасаемые / 1+1 / Intouchables (Оливье Накаш / Olivier Nakache, Эрик Толедано / Eric Toledano) [2011, Франция, драма, комедия, BDRip-AVC] Dub + Original (Fra) + Sub (Rus, Fra, Eng)",
-        "Downloads": 418218,
-        "Seeders": "202",
-        "Leechers": "7",
-        "GB": "1.45 GB"
+        "GB": "2.18 GB",
+        "pic_url": "http://i71.fastpic.ru/big/2015/0702/71/49585018096c2c13297e34144f4d7171.png"
     },
     "4136911": {
         "Description": "Отступники / The Departed (Мартин Скорсезе / Martin Scorsese) [2006, США, криминал, триллер, боевик, HDRip] Dub",
-        "Downloads": 181535,
-        "Seeders": "202",
-        "Leechers": "3",
-        "GB": "1.46 GB"
+        "Downloads": 181776,
+        "Seeders": "170",
+        "Leechers": "4",
+        "GB": "1.46 GB",
+        "pic_url": "http://i2.imageban.ru/out/2012/10/26/6a1c136c46dcaeb8c3da4b658d0d6c41.png"
     },
-    "4696017": {
-        "Description": "Назад в будущее / Back to the Future (Роберт Земекис / Robert Zemeckis) [1985, США, фантастика, приключения, BDRip-AVC] AVO (Сербин) + Original Eng + Sub",
-        "Downloads": 50281,
-        "Seeders": "46",
-        "Leechers": "3",
-        "GB": "1.46 GB"
-    },
-    "3400421": {
-        "Description": "Терминатор 2: Судный день / Terminator 2: Judgment Day (Джеймс Кэмерон / James Cameron) [1991, США, Франция, фантастика, боевик, триллер, BDRip] [Специальная расширенная версия / Extended Special Edition] AVO (Goblin / Гоблин)",
-        "Downloads": 27795,
-        "Seeders": "21",
-        "Leechers": "3",
-        "GB": "2.17 GB"
-    },
-    "4853134": {
-        "Description": "Одержимость Майкла Кинга / The Possession of Michael King (Дэвид Юнг / David Jung) [2014, США, ужасы, HDRip] AVO (А.Дольский)",
-        "Downloads": 9426,
-        "Seeders": "3",
-        "Leechers": "0",
-        "GB": "1.46 GB"
-    },
-    "3204117": {
-        "Description": "Окно во двор / Rear Window (Альфред Хичкок / Alfred Hitchcock) [1954, США, триллер, детектив, HDTVRip] MVO",
-        "Downloads": 47318,
-        "Seeders": "17",
-        "Leechers": "1",
-        "GB": "1.46 GB"
-    },
-    "4431432": {
-        "Description": "Индиана Джонс: В поисках утраченного ковчега / Raiders of the Lost Ark (Стивен Спилберг / Steven Spielberg) [1981, США, боевик, приключения, BDRip-AVC] MVO (НТВ+) + Sub (Rus, Eng) + Original Eng",
-        "Downloads": 39850,
-        "Seeders": "41",
-        "Leechers": "1",
-        "GB": "2.18 GB"
-    },
-    "4483055": {
-        "Description": "Гладиатор / Gladiator (Ридли Скотт / Ridley Scott) [2000, США, Великобритания, Боевик, драма, приключения, HDTVRip] [Театральная версия / Theatrical Cut] [Open Matte] Dub",
-        "Downloads": 53436,
-        "Seeders": "46",
-        "Leechers": "1",
-        "GB": "1.46 GB"
-    },
-    "3783366": {
-        "Description": "Престиж / The Prestige (Кристофер Нолан / Christopher Nolan) [2006, США, Великобритания, драма, триллер, BDRip] Dub",
-        "Downloads": 186073,
-        "Seeders": "47",
-        "Leechers": "1",
-        "GB": "1.46 GB"
-    },
-    "3478645": {
-        "Description": "Апокалипсис сегодня / Apocalypse Now (Френсис Форд Коппола / Francis Ford Coppola) [1979, США, Драма, военный, HDRip] [Redux Version] MVO (Киномания)",
-        "Downloads": 51351,
+    "5572484": {
+        "Description": "Назад в будущее / Back to the Future (Роберт Земекис / Robert Zemeckis) [1985, США, фантастика, приключения, HDRip] DVO (НТВ / СТС) + DVO (SDI Media)",
+        "Downloads": 2810,
         "Seeders": "33",
         "Leechers": "0",
-        "GB": "1.46 GB"
+        "GB": "1.45 GB",
+        "pic_url": "http://i104.fastpic.ru/big/2018/0619/e0/176615297631fbe4a82b320f708cdce0.jpg"
     },
-    "3456528": {
-        "Description": "Помни / Memento (Кристофер Нолан / Christopher Nolan) [2000, США, триллер, детектив, BDRip] Dub",
-        "Downloads": 109163,
-        "Seeders": "60",
+    "5336007": {
+        "Description": "Терминатор 2: Судный День / Terminator 2: Judgment Day (Джеймс Кэмерон / James Cameron) [1991, США, Франция, Фантастика, боевик, BDRip-AVC] [Специальная расширенная версия / Extended Special Edition] MVO (Позитив) + Sub (Rus, Eng) + Original Eng",
+        "Downloads": 14815,
+        "Seeders": "110",
         "Leechers": "0",
-        "GB": "1.46 GB"
+        "GB": "2.93 GB",
+        "pic_url": "http://i66.fastpic.ru/big/2014/0901/b5/2eabf9e388271157f4a75fa89718fcb5.jpg"
     },
-    "4170089": {
-        "Description": "Чужой / Alien (Ридли Скотт / Ridley Scott) [1979, США, Великобритания, ужасы, фантастика, боевик, триллер, D-TheaterRip] [Режиссерская версия / Director's Cut] Dub + Original (eng) + sub (rus, eng)",
-        "Downloads": 22932,
-        "Seeders": "26",
+    "4915921": {
+        "Description": "Одержимость Майкла Кинга / The Possession of Michael King (Дэвид Юнг / David Jung) [2014, США, ужасы, HDRip] Dub + Original Eng",
+        "Downloads": 5847,
+        "Seeders": "14",
         "Leechers": "0",
-        "GB": "2.18 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i67.fastpic.ru/big/2014/0904/11/267408cd309f6ede0527fdf97ad3cf11.jpg"
     },
-    "2969492": {
-        "Description": "Великий диктатор / The Great Dictator (Чарльз Чаплин / Charles Chaplin) [1940, США, комедия, драма, военный, HDRip] MVO",
-        "Downloads": 17469,
-        "Seeders": "13",
+    "5366480": {
+        "Description": "Окно во двор / Rear Window (Альфред Хичкок / Alfred Hitchcock) [1954, США, триллер, детектив, HDRip] DVO (ОРТ) + Original Eng",
+        "Downloads": 3027,
+        "Seeders": "17",
+        "Leechers": "1",
+        "GB": "1.46 GB",
+        "pic_url": "http://i89.fastpic.ru/big/2017/0303/58/d2fc899101d7369ee6ba85af25aeb158.png"
+    },
+    "4673069": {
+        "Description": "Индиана Джонс: В поисках утраченного ковчега / Indiana Jones: Raiders of the Lost Ark (Стивен Спилберг / Steven Spielberg) [1981, США, приключения, BDRip] MVO (DVD) + MVO (ТНТ) + Original",
+        "Downloads": 17128,
+        "Seeders": "73",
         "Leechers": "2",
-        "GB": "1.46 GB"
+        "GB": "2.16 GB",
+        "pic_url": "http://i33.fastpic.ru/big/2014/0218/8b/dbc82ec849c38ad14e7756832117e88b.jpg"
     },
-    "2546136": {
-        "Description": "Сансет бульвар / Sunset Blvd. ( Sunset Boulevard ) (Билли Уайлдер / Billy Wilder) [1950, США, драма, фильм-нуар, DVDRip] MVO + original + sub",
-        "Downloads": 32883,
-        "Seeders": "22",
-        "Leechers": "1",
-        "GB": "1.37 GB"
+    "3468379": {
+        "Description": "Гладиатор / Gladiator (Ридли Скотт / Ridley Scott) [2000, США, Великобритания, боевик, драма, приключения, BDRip] [Расширенная версия / Extended Cut] Dub + Original + Sub (Rus x2, Eng x2)",
+        "Downloads": 51786,
+        "Seeders": "19",
+        "Leechers": "5",
+        "GB": "3.45 GB",
+        "pic_url": "http://i30.fastpic.ru/big/2011/0914/49/d68dd53aa26590e785b44a528e2d6949.jpg"
     },
-    "2358271": {
-        "Description": "Жизнь других / Das Leben der Anderen (Флориан Хенкель фон Доннерсмарк / Florian Henckel von Donnersmarck) [2006, Германия, драма, BDRip] Dub",
-        "Downloads": 116480,
-        "Seeders": "47",
+    "4470280": {
+        "Description": "Престиж / The Prestige (Кристофер Нолан / Christopher Nolan) [2006, США, Великобритания, Триллер, драма, детектив, BDRip] Dub (CEE) + DVO (Гланц и Королева) + AVO (Визгунов) + Original (Eng) + Sub (Rus, Ukr, Eng)",
+        "Downloads": 43636,
+        "Seeders": "35",
+        "Leechers": "7",
+        "GB": "3.4 GB",
+        "pic_url": "http://i47.fastpic.ru/big/2013/0621/be/2f7c7e7b7e41fff8d7261e810074d0be.png"
+    },
+    "5716504": {
+        "Description": "Апокалипсис сегодня / Apocalypse Now (Френсис Форд Коппола / Francis Ford Coppola) [1979, США, драма, военный, HDRip] [Redux Version] MVO (Paramount) + MVO (НТВ+)",
+        "Downloads": 501,
+        "Seeders": "29",
         "Leechers": "0",
-        "GB": "1.47 GB"
+        "GB": "2.74 GB",
+        "pic_url": "https://i4.imageban.ru/out/2019/04/10/549d1d8bb15c7a80328f9c86093ef4b2.jpg"
     },
-    "1251678": {
-        "Description": "Тропы славы / Paths of Glory (Стэнли Кубрик / Stanley Kubrick) [1957, США, военная драма, DVDRip] DVO + original + sub",
-        "Downloads": 15378,
-        "Seeders": "15",
+    "5477637": {
+        "Description": "Помни / Memento (Кристофер Нолан / Christopher Nolan) [2000, США, триллер, драма, детектив, криминал, HDRip] MVO (ОРТ)",
+        "Downloads": 4986,
+        "Seeders": "31",
+        "Leechers": "2",
+        "GB": "1.45 GB",
+        "pic_url": "http://i98.fastpic.ru/big/2017/1108/33/c49c799342678e45aabe1c2aef176733.jpg"
+    },
+    "4697754": {
+        "Description": "Чужой / Alien (Ридли Скотт / Ridley Scott) [1979, США, Ужасы, фантастика, DTheaterRip] [Режиссерская версия / Director's Cut] Dub",
+        "Downloads": 18015,
+        "Seeders": "44",
+        "Leechers": "2",
+        "GB": "1.46 GB",
+        "pic_url": "http://i33.fastpic.ru/big/2014/0320/0e/20611181c5d4ae41138f66c13dd51f0e.png"
+    },
+    "2546147": {
+        "Description": "Великий диктатор / The Great Dictator (Чарлз Чаплин / Charles Chaplin) [1940, США, трагикомедия, комедия, драма, DVDRip-AVC] MVO + Original + Sub (rus, eng, Deu)",
+        "Downloads": 4232,
+        "Seeders": "10",
         "Leechers": "1",
-        "GB": "1.37 GB"
+        "GB": "1.81 GB",
+        "pic_url": "http://img340.imageshack.us/img340/9108/cover2ym.jpg"
     },
-    "5594321": {
-        "Description": "Мстители: Война бесконечности / Avengers: Infinity War (Энтони Руссо / Anthony Russo, Джо Руссо / Joe Russo) [2018, США, фантастика, фэнтези, боевик, приключения, BDRip] Dub",
-        "Downloads": 95134,
-        "Seeders": "713",
-        "Leechers": "16",
-        "GB": "1.47 GB"
+    "5392061": {
+        "Description": "Сансет бульвар / Sunset Boulevard / Sunset Blvd. (Билли Уайлдер / Billy Wilder) [1950, США, драма, нуар, BDRip] MVO (Film Prestige) + MVO (ГТРК Культура) + MVO (Светла, SomeWax) + AVO (Андрей Гаврилов) + Sub Rus + Original Eng",
+        "Downloads": 1963,
+        "Seeders": "18",
+        "Leechers": "1",
+        "GB": "2.63 GB",
+        "pic_url": "http://i3.imageban.ru/out/2017/04/22/190d823dccd4fa8bfe99a40be88d6954.jpg"
+    },
+    "573358": {
+        "Description": "Жизнь других / Das Leben der Anderen (Флориан Хенкель Фон Доннерсмарк / Florian Henckel von Donnersmarck) [2006, Германия, Драма, DVDRip] Dub + VO + original + sub",
+        "Downloads": 4524,
+        "Seeders": "38",
+        "Leechers": "1",
+        "GB": "1.9 GB",
+        "pic_url": "http://savepic.ru/14174908.jpg"
+    },
+    "5548150": {
+        "Description": "Тропы славы / Paths of Glory (Стэнли Кубрик / Stanley Kubrick) [1957, США, драма, военный, HDRip] MVO (ОРТ)",
+        "Downloads": 509,
+        "Seeders": "6",
+        "Leechers": "0",
+        "GB": "1.39 GB",
+        "pic_url": "http://i105.fastpic.ru/big/2018/0413/07/965e0a0e4f7bc37438d34a2f650dec07.jpg"
+    },
+    "5596532": {
+        "Description": "Мстители: Война бесконечности / Avengers: Infinity War (Энтони Руссо / Anthony Russo, Джо Руссо / Joe Russo) [2018, США, фантастика, фэнтези, боевик, приключения, WEB-DLRip] [Open Matte / Локализованный видеоряд] Dub",
+        "Downloads": 18589,
+        "Seeders": "139",
+        "Leechers": "4",
+        "GB": "1.46 GB",
+        "pic_url": "http://i5.imageban.ru/out/2018/08/04/9ba5bd4dfd4c2fbf243668afb0390ea5.png"
     },
     "4393246": {
         "Description": "Джанго освобожденный / Django Unchained (Квентин Тарантино / Quentin Tarantino) [2012, Драма, вестерн, комедия, приключения, BDRip] Dub",
-        "Downloads": 303803,
-        "Seeders": "194",
-        "Leechers": "3",
-        "GB": "1.46 GB"
-    },
-    "3544259": {
-        "Description": "Свидетель обвинения / Witness for the Prosecution (Билли Уайлдер / Billy Wilder) [1957, США, детектив, триллер, BDRip] MVO + VO + Sub rus, eng + original eng",
-        "Downloads": 11306,
-        "Seeders": "51",
+        "Downloads": 304070,
+        "Seeders": "172",
         "Leechers": "1",
-        "GB": "2.19 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i52.fastpic.ru/big/2013/0328/97/4536e2314fe856e8440c496d58e88d97.png"
+    },
+    "5434310": {
+        "Description": "Свидетель обвинения / Witness for the Prosecution (Билли Уайлдер / Billy Wilder) [1957, США, детектив, триллер, Telesync > DVD] [Советская прокатная копия] Dub (Горького)",
+        "Downloads": 812,
+        "Seeders": "1",
+        "Leechers": "0",
+        "GB": "3.92 GB",
+        "pic_url": "http://i4.imageban.ru/out/2017/07/29/62fa08babc0edec1ea979f9aac96c18c.jpg"
+    },
+    "4699923": {
+        "Description": "Чужие / Aliens (Джеймс Кэмерон / James Cameron) [1986, США, Ужасы, фантастика, боевик, триллер, приключения, BDRip] [Специальное издание / Special Edition] Dub",
+        "Downloads": 21232,
+        "Seeders": "69",
+        "Leechers": "3",
+        "GB": "1.46 GB",
+        "pic_url": "http://i57.fastpic.ru/big/2014/0323/d4/7605588a82cae21f5bd067b876c740d4.png"
     },
     "4751852": {
         "Description": "Тёмный рыцарь: Возрождение легенды / The Dark Knight Rises (Кристофер Нолан / Christopher Nolan) [2012, США, Великобритания, фантастика, боевик, триллер, криминал, BDRip-AVC] [IMAX] Dub + Sub Rus, Eng + Original Eng",
-        "Downloads": 85163,
-        "Seeders": "171",
-        "Leechers": "4",
-        "GB": "1.47 GB"
+        "Downloads": 85465,
+        "Seeders": "193",
+        "Leechers": "5",
+        "GB": "1.47 GB",
+        "pic_url": "http://i024.radikal.ru/1405/1f/653e7c082e5e.png"
     },
-    "359962": {
-        "Description": "Чужие / Aliens (Джеймс Кэмерон / James Cameron) [1986, США, Великобритания, Ужасы, Фантастика, Боевик, Триллер, DVDRip] [Режиссерская версия / Director's Cut]",
-        "Downloads": 25316,
-        "Seeders": "10",
+    "1198961": {
+        "Description": "Красота по-американски / American Beauty (Сэм Мендес / Sam Mendes) [1999, США, драма, HDRip-AVC]",
+        "Downloads": 3285,
+        "Seeders": "18",
         "Leechers": "0",
-        "GB": "2.05 GB"
+        "GB": "1.64 GB",
+        "pic_url": "http://i3.fastpic.ru/big/2009/1023/11/5af9e668909a184696c0590c88548011.jpg"
     },
-    "3418293": {
-        "Description": "Красота по-американски / American Beauty (Сэм Мендес / Sam Mendes) [1999, США, драма, HDRip] MVO (Universal Pictures Rus)",
-        "Downloads": 142945,
-        "Seeders": "98",
-        "Leechers": "1",
-        "GB": "1.46 GB"
-    },
-    "3366072": {
-        "Description": "Однажды в Америке / Once Upon a Time in America (Серджио Леоне / Sergio Leone) [1984, США, Италия, криминальная драма, HDRip] MVO (Позитив)",
-        "Downloads": 80955,
-        "Seeders": "48",
+    "4194509": {
+        "Description": "Однажды в Америке / Once Upon a Time in America (Серджио Леоне / Sergio Leone) [1984, США, Италия, драма, криминал, HDRip] DVO (Видеосервис) + VO (Ленфильм)",
+        "Downloads": 23104,
+        "Seeders": "15",
         "Leechers": "0",
-        "GB": "1.46 GB"
+        "GB": "2.83 GB",
+        "pic_url": "http://i43.fastpic.ru/big/2012/0924/f2/fb9968a717985f062e8e5a02295a83f2.jpg"
     },
-    "4132502": {
-        "Description": "Лодка / Подводная лодка / Подлодка / Das Boot (Вольфганг Петерсен / Wolfgang Petersen) [1981, Германия, Драма, военный, BDRip] [Режиссёрская версия / Director's Cut] MVO (Супербит)",
-        "Downloads": 34498,
-        "Seeders": "29",
-        "Leechers": "1",
-        "GB": "1.46 GB"
+    "3262993": {
+        "Description": "Подводная лодка / Das Boot (Вольфганг Петерсен / Wolfgang Petersen) [1981, Германия, Военная драма, история, боевик, BDRip] [Режиссерская версия / Director's Cut] Mvo (R5/Lizard) + Original Deu",
+        "Downloads": 5269,
+        "Seeders": "7",
+        "Leechers": "0",
+        "GB": "4.37 GB",
+        "pic_url": "http://i12.fastpic.ru/big/2010/1114/e9/eb4b46b491a13f4432db89c2ad68d1e9.jpg"
     },
     "3717121": {
         "Description": "Гражданин Кейн / Citizen Kane (Орсон Уэллс / Orson Welles) [1941, США, Биография, Драма, HDRip] MVO + AVO + Original + Sub",
-        "Downloads": 31396,
-        "Seeders": "40",
+        "Downloads": 31442,
+        "Seeders": "53",
         "Leechers": "3",
-        "GB": "2.19 GB"
+        "GB": "2.19 GB",
+        "pic_url": "http://i28.fastpic.ru/big/2011/1010/ce/ab970ea1d0c505bddd415d4c09ed87ce.jpg"
     },
-    "4796837": {
-        "Description": "Храброе сердце / Braveheart (Мэл Гибсон / Mel Gibson) [1995, США, исторический, драма, военный, HDRip] Dub + Sub Rus",
-        "Downloads": 31756,
-        "Seeders": "43",
-        "Leechers": "3",
-        "GB": "1.47 GB"
+    "269149": {
+        "Description": "Храброе сердце / Braveheart (Мэл Гибсон / Mel Gibson) [1995, США, исторический, драма, военный, DVDRip] AVO Гаврилов",
+        "Downloads": 992,
+        "Seeders": "7",
+        "Leechers": "0",
+        "GB": "2 GB",
+        "pic_url": "http://i29.fastpic.ru/big/2011/1223/c0/17f1cf6e731156925f06459852fde5c0.jpg"
     },
     "4327050": {
         "Description": "Головокружение / Vertigo (Альфред Хичкок / Alfred Hitchcock) [1958, США, триллер, мелодрама, драма, детектив, BDRip-AVC] Dub + Original (Eng) + Sub (Rus, Eng)",
-        "Downloads": 28553,
-        "Seeders": "30",
-        "Leechers": "4",
-        "GB": "2.18 GB"
+        "Downloads": 28620,
+        "Seeders": "19",
+        "Leechers": "3",
+        "GB": "2.18 GB",
+        "pic_url": "http://i5.imageban.ru/out/2013/01/02/8f741765f00a225415beff6a5f7c9e58.png]newproject.png"
     },
-    "3517612": {
-        "Description": "На север через северо-запад / North by Northwest (Альфред Хичкок / Alfred Hitchcock) [1959, США, триллер, приключения, детектив, BDRip] MVO",
-        "Downloads": 30403,
-        "Seeders": "24",
+    "5560067": {
+        "Description": "На север через северо-запад / North by Northwest (Альфред Хичкок / Alfred Hitchcock) [1959, США, триллер, детектив, HDRip] MVO (Моcт-Видео) + Original Eng",
+        "Downloads": 1362,
+        "Seeders": "10",
         "Leechers": "0",
-        "GB": "1.45 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i104.fastpic.ru/big/2018/0512/73/c7cd82275ed7717d2e28f8af72af3c73.jpg"
     },
-    "3953665": {
-        "Description": "Бешеные псы / Reservoir Dogs (Квентин Тарантино / Quentin Tarantino) [1992, США, Триллер, Криминал, Детектив, DVDRip] AVO (Пучков Дмитрий / Goblin)",
-        "Downloads": 61191,
-        "Seeders": "51",
+    "5464190": {
+        "Description": "Бешеные псы / Reservoir Dogs (Квентин Тарантино / Quentin Tarantino) [1992, США, триллер, драма, криминал, WEB-DLRip-AVC] [Open Matte] 2x MVO (Twister, НТВ+) + 3x AVO (Живов, Пучков, Сербин) + Sub Rus Eng + Original Eng",
+        "Downloads": 3382,
+        "Seeders": "21",
+        "Leechers": "6",
+        "GB": "3.13 GB",
+        "pic_url": "https://i110.fastpic.ru/big/2019/0208/a4/22da9fab0e65945028574c33ae1405a4.jpg"
+    },
+    "5259018": {
+        "Description": "Багаж господина О.Ф. / Die Koffer des Herrn O.F. (Алексей Грановский / Alexis Granowsky) [1931, Германия, Комедия, VHSRip] DVO (Vaxiwod и Оксана) + Sub Rus (на песни)",
+        "Downloads": 373,
+        "Seeders": "4",
         "Leechers": "0",
-        "GB": "1.46 GB"
+        "GB": "967.9 MB",
+        "pic_url": "http://s009.radikal.ru/i310/1607/7c/84161b30707a.jpg"
     },
     "4298055": {
         "Description": "Реквием по мечте / Requiem for a Dream (Даррен Аронофски / Darren Aronofsky) [2000, США, драма, криминал, BDRip] [Режиссёрская версия / Director's Cut] Dub",
-        "Downloads": 71257,
-        "Seeders": "71",
-        "Leechers": "3",
-        "GB": "1.46 GB"
+        "Downloads": 71381,
+        "Seeders": "84",
+        "Leechers": "6",
+        "GB": "1.46 GB",
+        "pic_url": "http://i5.imageban.ru/out/2012/12/28/823cd7f260094f94cb6c28d4c1656a51.png]newproject2.png"
     },
-    "3432684": {
-        "Description": "Вечное сияние чистого разума / Eternal Sunshine of the Spotless Mind (Мишель Гондри / Michel Gondry) [2004, США, фантастика, драма, мелодрама, BDRip] Dub",
-        "Downloads": 188690,
-        "Seeders": "149",
-        "Leechers": "3",
-        "GB": "1.46 GB"
+    "2903253": {
+        "Description": "Вечное сияние чистого разума / Eternal Sunshine of the Spotless Mind (Мишель Гондри / Michel Gondry) [2004, США, фантастика, драма, мелодрама, BDRip] Dub + Original Eng + Sub Rus, Eng",
+        "Downloads": 23862,
+        "Seeders": "18",
+        "Leechers": "0",
+        "GB": "2.19 GB",
+        "pic_url": "http://i31.fastpic.ru/big/2011/1010/d3/4b74f47b5e2bfe4cba2fbeed12215dd3.png"
     },
     "4261388": {
         "Description": "Лоуренс Аравийский / Lawrence of Arabia (Дэвид Лин / David Lean) [1962, Великобритания, драма, исторический, военный, биография, BDRip-AVC] MVO (Супербит) + Original + Sub (rus, eng)",
-        "Downloads": 25262,
-        "Seeders": "59",
-        "Leechers": "2",
-        "GB": "1.46 GB"
+        "Downloads": 25333,
+        "Seeders": "73",
+        "Leechers": "1",
+        "GB": "1.46 GB",
+        "pic_url": "http://i47.fastpic.ru/big/2012/1121/18/a4734b5b45cd8825af7cce36c0dccb18.png"
     },
     "2330263": {
         "Description": "Амели / Le Fabuleux destin d'Amelie Poulain (Жан-Пьер Жёне / Jean-Pierre Jeunet) [2001, Германия, Франция, комедия, мелодрама, BDRip] Dub",
-        "Downloads": 121944,
-        "Seeders": "117",
-        "Leechers": "1",
-        "GB": "1.46 GB"
+        "Downloads": 122045,
+        "Seeders": "104",
+        "Leechers": "3",
+        "GB": "1.46 GB",
+        "pic_url": "http://i2.imageban.ru/out/2013/08/20/4239a190d34584ed5ab7663162bed060.png]17942.jpg"
     },
     "3720952": {
         "Description": "Двойная страховка / Double Indemnity (Билли Уайлдер / Billy Wilder) [1944, США, Нуар, криминал, триллер, HDTVRip] MVO (Film Prestige) + Original Eng + Sub (Rus, Eng)",
-        "Downloads": 17024,
-        "Seeders": "15",
-        "Leechers": "2",
-        "GB": "1.46 GB"
+        "Downloads": 17051,
+        "Seeders": "20",
+        "Leechers": "5",
+        "GB": "1.46 GB",
+        "pic_url": "http://i29.fastpic.ru/big/2011/1010/d4/08f143cdfbfe4c7735da4ec8a5b250d4.png"
     },
-    "2305634": {
-        "Description": "Таксист / Taxi Driver (Мартин Скорсезе / Martin Scorsese) [1976, США, триллер, драма, BDRip] MVO (Киномания)",
-        "Downloads": 56974,
-        "Seeders": "72",
-        "Leechers": "3",
-        "GB": "1.46 GB"
+    "3742430": {
+        "Description": "Таксист / Taxi Driver (Мартин Скорсезе / Martin Scorsese) [1976, США, триллер, драма, криминал, BDRip-AVC] MVOx2 + DVOx2 + AVOx3 + Original + Sub (rus,eng)",
+        "Downloads": 23601,
+        "Seeders": "44",
+        "Leechers": "13",
+        "GB": "3.55 GB",
+        "pic_url": "http://i32.fastpic.ru/big/2011/0921/1c/840f5578405f915fb79eda55bb49621c.png"
     },
-    "3453127": {
-        "Description": "Бесславные ублюдки / Inglourious Basterds (Квентин Тарантино / Quentin Tarantino) [2009, США, Германия, боевик, комедия, драма, военный, HDRip] Dub",
-        "Downloads": 165183,
-        "Seeders": "130",
-        "Leechers": "3",
-        "GB": "1.46 GB"
-    },
-    "3908386": {
-        "Description": "Похитители велосипедов / Ladri di biciclette / Bicycle Thieves (Витторио Де Сика / Vittorio De Sica) [1948, Италия, драма, криминал, BDRip] MVO",
-        "Downloads": 7183,
-        "Seeders": "7",
-        "Leechers": "0",
-        "GB": "748.6 MB"
+    "2533179": {
+        "Description": "Бесславные ублюдки / Inglourious Basterds (Квентин Тарантино / Quentin Tarantino) [2009, США, драма, военный, BDRip-AVC]",
+        "Downloads": 30604,
+        "Seeders": "14",
+        "Leechers": "1",
+        "GB": "2.53 GB",
+        "pic_url": "http://img403.imageshack.us/img403/6783/51d3ffwlpflss400.jpg"
     },
     "2758806": {
         "Description": "Убить пересмешника / To Kill A Mockingbird (Роберт Милиган / Robert Mulligan) [1962, США, Драма, DVDRip-AVC, DXVA] MVO + original + sub",
-        "Downloads": 42898,
-        "Seeders": "39",
-        "Leechers": "1",
-        "GB": "1.43 GB"
+        "Downloads": 42957,
+        "Seeders": "47",
+        "Leechers": "0",
+        "GB": "1.43 GB",
+        "pic_url": "http://i10.tinypic.com/52y0ryd.jpg"
+    },
+    "5271320": {
+        "Description": "Похитители велосипедов / Ladri di biciclette (Витторио Де Сика / Vittorio De Sica) [1948, Италия, драма, BDRip] MVO (DVD Magic) + Sub Rus, Eng + Original Ita",
+        "Downloads": 5191,
+        "Seeders": "33",
+        "Leechers": "3",
+        "GB": "1.53 GB",
+        "pic_url": "http://i3.imageban.ru/out/2016/08/21/e7f06ae16cb8c26d0ce3bf62c6aeea1d.jpg"
     },
     "5344270": {
         "Description": "Малыш / The Kid (Чарльз Чаплин / Charles Chaplin) [1921, США, комедия, драма, семейный, BDRip] Sub (rus)",
-        "Downloads": 2685,
-        "Seeders": "20",
-        "Leechers": "0",
-        "GB": "886.3 MB"
+        "Downloads": 2731,
+        "Seeders": "17",
+        "Leechers": "1",
+        "GB": "886.3 MB",
+        "pic_url": "http://i6.imageban.ru/out/2017/01/20/349f706e6b12f58de01f826059ea83b3.jpg"
     },
-    "3031842": {
-        "Description": "Умница Уилл Хантинг / Good Will Hunting (Гас Ван Сент / Gus Van Sant) [1997, США, драма, BDRip] DVO (West Video)",
-        "Downloads": 72223,
-        "Seeders": "15",
-        "Leechers": "0",
-        "GB": "1.46 GB"
+    "4615761": {
+        "Description": "Умница Уилл Хантинг / Good Will Hunting (Гас Ван Сент / Gus Van Sant) [1997, США, драма, BDRip] MVO (Первый канал)",
+        "Downloads": 68333,
+        "Seeders": "114",
+        "Leechers": "6",
+        "GB": "1.47 GB",
+        "pic_url": "http://i58.fastpic.ru/big/2013/1215/b7/7f26afd8efb3af6b85a1c3c9c1828eb7.png"
     },
     "4281803": {
         "Description": "Афера / The Sting (Джордж Рой Хилл / George Roy Hill) [1973, США, драма, комедия, криминал, BDRip] Dub",
-        "Downloads": 21403,
-        "Seeders": "34",
-        "Leechers": "3",
-        "GB": "1.46 GB"
+        "Downloads": 21449,
+        "Seeders": "32",
+        "Leechers": "2",
+        "GB": "1.46 GB",
+        "pic_url": "http://i49.fastpic.ru/big/2012/1209/fc/7db28699b1eb8e2263d9264766ed3bfc.png"
     },
     "4382757": {
         "Description": "Охота за Янтарной комнатой / Die Jagd nach dem Bernsteinzimmer (Флориан Баксмейер / Florian Baxmeyer) [2012, Германия, боевик, приключения, HDRip] VO",
-        "Downloads": 17588,
-        "Seeders": "7",
+        "Downloads": 17589,
+        "Seeders": "6",
         "Leechers": "0",
-        "GB": "1.46 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i54.fastpic.ru/big/2013/0317/12/5b306e3c6029a44f5ff55175662a4112.jpg"
     },
-    "1883637": {
-        "Description": "Большой куш / Snatch. (Гай Ричи / Guy Ritchie) [2000, США, Великобритания, триллер, комедия, криминал, BDRip] Гоблин (Версия 2001 года)",
-        "Downloads": 168985,
-        "Seeders": "166",
+    "4793636": {
+        "Description": "Большой куш / Snatch (Гай Ричи / Guy Ritchie) [2000, Великобритания, США, комедия, криминал, DVDRip] [Fullscreen version] AVO (Goblin) (версия 2001 года)",
+        "Downloads": 55201,
+        "Seeders": "179",
+        "Leechers": "7",
+        "GB": "1.46 GB",
+        "pic_url": "http://i67.fastpic.ru/big/2014/0731/0b/d2e801b2c3d039277d8305ac7699290b.jpg"
+    },
+    "4259923": {
+        "Description": "Лицо со шрамом / Scarface (Брайан Де Пальма / Brian De Palma) [1983, США, драма, криминал, BDRip] DVO (НТВ) + 2 x MVO (Россия, Spike)",
+        "Downloads": 2915,
+        "Seeders": "12",
         "Leechers": "2",
-        "GB": "1.46 GB"
-    },
-    "3934596": {
-        "Description": "Лицо со шрамом / Scarface (Брайан Де Пальма / Brian De Palma) [1983, США, драма, криминал, HDRip] MVO (Киномания)",
-        "Downloads": 77281,
-        "Seeders": "66",
-        "Leechers": "4",
-        "GB": "1.46 GB"
+        "GB": "2.84 GB",
+        "pic_url": "http://i89.fastpic.ru/big/2017/0403/96/3c957648c9aa356f9a6acae774206596.jpg"
     },
     "1731463": {
         "Description": "На несколько долларов больше / Per qualche dollaro in più / For A Few Dollars More (Серджио Леоне / Sergio Leone) [1965, Италия, боевик, вестерн, BDRip-AVC] MVO (SomeWax) + AVO (Гоблин, Горчаков, Гаврилов) + Ita + Original + Sub (Rus, Eng)",
-        "Downloads": 40389,
-        "Seeders": "55",
-        "Leechers": "3",
-        "GB": "2.7 GB"
-    },
-    "879295": {
-        "Description": "Квартира / The Apartment (Билли Уайлдер / Billy Wilder) [1960, США, Комедия, DVDRip]",
-        "Downloads": 10269,
-        "Seeders": "7",
+        "Downloads": 40485,
+        "Seeders": "53",
         "Leechers": "1",
-        "GB": "1.36 GB"
+        "GB": "2.7 GB",
+        "pic_url": "http://s52.radikal.ru/i136/0904/24/795b8347946e.png"
+    },
+    "2243255": {
+        "Description": "Квартира / The Apartment (Билли Уайлдер / Billy Wilder) [1960, США, комедия, мелодрама, драма, HDTVRip] MVO + Dub + original + sub",
+        "Downloads": 4904,
+        "Seeders": "29",
+        "Leechers": "6",
+        "GB": "1.47 GB",
+        "pic_url": "http://i28.fastpic.ru/big/2011/1227/77/eaf1c53434ffeac606731e5904187e77.jpg"
     },
     "2857964": {
         "Description": "Метрополис / Metropolis (Фриц Ланг / Fritz Lang) [1927, Германия, Фантастика / Драма, HDTVRip] Rus Sub [Полная версия]",
-        "Downloads": 19701,
+        "Downloads": 19712,
         "Seeders": "10",
         "Leechers": "0",
-        "GB": "1.47 GB"
+        "GB": "1.47 GB",
+        "pic_url": "http://i2.fastpic.ru/big/2010/0318/2d/b3bd873d9ce41a0d0914b416d0bfd72d.jpg"
     },
-    "1928932": {
-        "Description": "Секреты Лос-Анджелеса / L.A. Confidential (Кертис Хэнсон / Curtis Hanson) [1997, США, Триллер, Криминал, HDRip]",
-        "Downloads": 80368,
-        "Seeders": "54",
-        "Leechers": "1",
-        "GB": "1.46 GB"
-    },
-    "4228338": {
-        "Description": "Индиана Джонс и последний крестовый поход / Indiana Jones and the Last Crusade (Стивен Спилберг / Steven Spielberg) [1989, США, боевик, приключения, BDRip] DVO (Премьер Видео) + Original + Sub (Rus, Eng, Eng SDH)",
-        "Downloads": 32451,
-        "Seeders": "29",
-        "Leechers": "2",
-        "GB": "2.18 GB"
-    },
-    "3271123": {
-        "Description": "Не смотри вверх / Don't Look Up (Фрут Чан / Frut Chan) [2009, Япония, Юар, Ужасы, HDRip] VO Laids + original eng",
-        "Downloads": 1892,
-        "Seeders": "2",
+    "3492023": {
+        "Description": "Секреты Лос-Анджелеса / L.A. Confidential (Кёртис Хэнсон / Curtis Hanson) [1997, США, триллер, драма, криминал, детектив, HDRip] DVO (Twister)",
+        "Downloads": 19763,
+        "Seeders": "10",
         "Leechers": "0",
-        "GB": "1.37 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i30.fastpic.ru/big/2012/0127/11/09ab3252749145222448061356203a11.png"
+    },
+    "4789596": {
+        "Description": "Индиана Джонс и последний крестовый поход / Indiana Jones and the Last Crusade (Стивен Спилберг / Steven Spielberg) [1989, США, Боевик, приключения, BDRip] MVO (Киномания)",
+        "Downloads": 18171,
+        "Seeders": "53",
+        "Leechers": "0",
+        "GB": "1.46 GB",
+        "pic_url": "http://i66.fastpic.ru/big/2014/0725/7f/6b89148144cea9abd2edb0426d066a7f.png"
+    },
+    "3201896": {
+        "Description": "Не смотри вверх / Don't Look Up (Фрут Чан / Fruit Chan) [2009, Япония, ЮАР, Ужасы, DVDRip] Sub rus + original eng",
+        "Downloads": 872,
+        "Seeders": "1",
+        "Leechers": "0",
+        "GB": "709.5 MB",
+        "pic_url": "http://i10.fastpic.ru/big/2010/1013/b2/fe004f30056790e5a966fb5321f473b2.jpg"
     },
     "3898106": {
         "Description": "Всё о Еве / All About Eve (Джозеф Лео Манкевич / Joseph L. Mankiewicz) [1950, США, драма, BDRip] MVO (DVD Магия)",
-        "Downloads": 13663,
-        "Seeders": "16",
+        "Downloads": 13693,
+        "Seeders": "14",
         "Leechers": "0",
-        "GB": "1.46 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i28.fastpic.ru/big/2012/0112/b2/81fa25359a6742a4a87f8ba96eab04b2.jpg"
     },
-    "4538739": {
-        "Description": "Бэтмен: Начало / Batman Begins (Кристофер Нолан / Christopher Nolan) [2005, США, боевик, приключения, BDRip] Dub",
-        "Downloads": 48658,
-        "Seeders": "22",
+    "4571295": {
+        "Description": "Бэтмен: Начало / Batman Begins (Кристофер Нолан / Christopher Nolan) [2005, США, боевик, приключения, BDRip-AVC] Dub + Original (Eng) + Sub (Rus, Eng)",
+        "Downloads": 45652,
+        "Seeders": "101",
         "Leechers": "1",
-        "GB": "1.46 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i2.imageban.ru/out/2013/09/19/fc5af4b184066739fc371827a8eba466.png]newproject.png"
     },
     "3564207": {
         "Description": "В джазе только девушки / Some Like It Hot (Билли Уайлдер / Billy Wilder) [1959, США, комедия, мелодрама, приключения, криминал, BDRip] Полная версия, Dub",
-        "Downloads": 91369,
-        "Seeders": "108",
-        "Leechers": "2",
-        "GB": "1.46 GB"
+        "Downloads": 91492,
+        "Seeders": "113",
+        "Leechers": "0",
+        "GB": "1.46 GB",
+        "pic_url": "http://i30.fastpic.ru/big/2011/1008/5d/70fd42339830c5186abc0f78a1aef05d.png"
     },
     "3553967": {
         "Description": "Бункер / Der Untergang / Downfall (Оливер Хиршбигель / Oliver Hirschbiegel) [2004, Германия, Италия, Австрия, драма, военный, биография, история, HDRip] DVO",
-        "Downloads": 42536,
+        "Downloads": 42553,
         "Seeders": "22",
         "Leechers": "1",
-        "GB": "1.37 GB"
+        "GB": "1.37 GB",
+        "pic_url": "http://i101.fastpic.ru/big/2018/0301/bb/4402ce89d21866d907b391146c9f6fbb.png"
     },
     "106991": {
         "Description": "Непрощённый / Unforgiven (Клинт Иствуд / Clint Eastwood) [1992, США, вестерн / драма, DVDRip]",
-        "Downloads": 570,
+        "Downloads": 575,
+        "Seeders": "3",
+        "Leechers": "0",
+        "GB": "700.4 MB",
+        "pic_url": "http://ec2.images-amazon.com/images/P/0790729644.01._SS500_SCLZZZZZZZ_V1056489951_.jpg"
+    },
+    "4579453": {
+        "Description": "Крепкий орешек / Die Hard (Джон МакТирнан / John McTiernan) [1988, США, боевик, приключения, триллер, BDRip] VO (Мосфильм) + AVO (Кузнецов) + AVO (Фёдоров) + AVO (Либергал) + VO",
+        "Downloads": 2222,
+        "Seeders": "13",
+        "Leechers": "0",
+        "GB": "2.66 GB",
+        "pic_url": "http://i94.fastpic.ru/big/2017/0717/eb/8b1dcc7d46368b9bff667585ab5171eb.jpg"
+    },
+    "22972": {
+        "Description": "Схватка / The Heat (Майкл Мэнн / Michael Mann) [1995, США, Детектив, Драма, Триллер, DVDRip] MVO",
+        "Downloads": 11936,
         "Seeders": "4",
-        "Leechers": "0",
-        "GB": "700.4 MB"
-    },
-    "4614701": {
-        "Description": "Крепкий орешек / Die Hard (Джон МакТирнан / John McTiernan) [1988, США, боевик, триллер, BDRip] Dub",
-        "Downloads": 47967,
-        "Seeders": "76",
-        "Leechers": "2",
-        "GB": "1.46 GB"
-    },
-    "4348654": {
-        "Description": "Схватка / Heat (Майкл Манн / Michael Mann) [1995, США, боевик, криминал, драма, BDRip] MVO (ОРТ)",
-        "Downloads": 42592,
-        "Seeders": "33",
-        "Leechers": "0",
-        "GB": "1.46 GB"
+        "Leechers": "1",
+        "GB": "693.4 MB",
+        "pic_url": "https://t3.ftcdn.net/jpg/01/01/89/46/240_F_101894688_RVSZUtDfPR6Cr5eBDQI7Qo5pZ01jmyK3.jpg"
     },
     "5692584": {
         "Description": "Зелёная книга / Green Book (Питер Фаррелли / Peter Farrelly) [2018, США, комедия, драма, биография, BDRip] Dub (iTunes) + Sub (Rus, Eng) + Original Eng",
-        "Downloads": 39384,
-        "Seeders": "2603",
-        "Leechers": "116",
-        "GB": "2.17 GB"
+        "Downloads": 45182,
+        "Seeders": "2367",
+        "Leechers": "123",
+        "GB": "2.17 GB",
+        "pic_url": "https://i5.imageban.ru/out/2019/03/03/56f0c3632d6b6fba193ecc1b93685e07.jpg"
     },
     "5352394": {
         "Description": "То, ради чего стоит жить / Ради этого стоит жить / Something to Live For (Джордж Стивенс / George Stevens) [1952, США, драма, DVDRip] VO (minyaev) + Sub Rus + Original Eng",
         "Downloads": 436,
         "Seeders": "4",
-        "Leechers": "0",
-        "GB": "1.04 GB"
+        "Leechers": "1",
+        "GB": "1.04 GB",
+        "pic_url": "http://i91.fastpic.ru/big/2017/0204/30/0498e8750b6b33545d8d7aaece1b5230.jpg"
     },
     "2186747": {
         "Description": "Бешеный бык / Разъяренный бык / Raging Bull (Мартин Скорсезе / Martin Scorsese) [1980, США, драма, биография, спорт, BDRip] MVO",
-        "Downloads": 41423,
-        "Seeders": "25",
-        "Leechers": "1",
-        "GB": "1.46 GB"
+        "Downloads": 41471,
+        "Seeders": "30",
+        "Leechers": "0",
+        "GB": "1.46 GB",
+        "pic_url": "http://i3.fastpic.ru/big/2009/1023/e8/474ce9b66ccd831057ee114fad9182e8.jpg"
     },
-    "1327254": {
-        "Description": "Великий побег / Большой побег / The Great Escape (Джон Стерджес / John Sturges) [1963,США, приключения, военные, DVDRip] DVO (НТВ)",
-        "Downloads": 9435,
+    "3520276": {
+        "Description": "Большой побег / The Great Escape (Джон Элиот Стёрджес / John Eliot Sturges) [1963, США, драма, приключения, военный, исторический, BDRip] DVO (R5) + DVO (НТВ+)",
+        "Downloads": 1622,
         "Seeders": "6",
-        "Leechers": "1",
-        "GB": "1.46 GB"
+        "Leechers": "0",
+        "GB": "1.65 GB",
+        "pic_url": "http://i5.imageban.ru/out/2016/02/04/b55779253e5109aa030a26a3bd714ee7.jpg"
     },
     "2934950": {
         "Description": "Лабиринт Фавна / El Laberinto del Fauno / Pan's Labyrinth (Гильермо дель Торо / Guillermo del Toro) [2006, США, Испания, Мексика, Триллер, фэнтези, драма, сказка, BDRip] Dub",
-        "Downloads": 113065,
-        "Seeders": "52",
-        "Leechers": "1",
-        "GB": "1.46 GB"
+        "Downloads": 113153,
+        "Seeders": "68",
+        "Leechers": "2",
+        "GB": "1.46 GB",
+        "pic_url": "http://i31.fastpic.ru/big/2012/0318/dd/2bc190b029dce3c4e87034b1358003dd.jpg"
     },
-    "2587620": {
-        "Description": "Китайский квартал / Chinatown (Роман Полански / Roman Polanski) [1974, США, триллер, детектив, HDRip] Mvo (НТВ+)",
-        "Downloads": 35939,
-        "Seeders": "39",
+    "4705703": {
+        "Description": "Китайский квартал / Chinatown (Роман Полански / Roman Polanski) [1974, США, триллер, драма, криминал, детектив, BDRip-AVC] MVO (НТВ+) + Sub (Rus, Eng) + Original (Eng)",
+        "Downloads": 12708,
+        "Seeders": "31",
+        "Leechers": "1",
+        "GB": "2.44 GB",
+        "pic_url": "http://101.imagebam.com/download/F_9zx-JCLDSHm0py0_Zo-A/32320/323198536/folder.png"
+    },
+    "4854390": {
+        "Description": "Мой отец и мой сын / Babam ve oglum / My Father and My Son (Чаган Ирмак / Cagan Irmak) [2005, Турция, Драма, DVDRip] VO + Sub Rus",
+        "Downloads": 1642,
+        "Seeders": "5",
         "Leechers": "0",
-        "GB": "1.46 GB"
-    },
-    "1764239": {
-        "Description": "Мой отец и мой сын / Babam ve oglum / My Father and My Son (Чаган Ирмак/ Cagan Irmak) [2005, Турция, комедия, драма, DVDRip, sub]",
-        "Downloads": 3749,
-        "Seeders": "2",
-        "Leechers": "1",
-        "GB": "1.46 GB"
+        "GB": "1.64 GB",
+        "pic_url": "http://i63.fastpic.ru/big/2014/1026/f7/2e6c8512200d3a9d9ad9b07be233b5f7.jpg"
     },
     "4162182": {
         "Description": "Третий человек / The Third Man (Кэрол Рид / Carol Reed) [1949, Великобритания, фильм-нуар, триллер, детектив, BDRip] MVO (Film Prestige) + original (eng) + sub (rus, eng)",
-        "Downloads": 20950,
-        "Seeders": "42",
+        "Downloads": 21001,
+        "Seeders": "41",
         "Leechers": "3",
-        "GB": "1.59 GB"
+        "GB": "1.59 GB",
+        "pic_url": "http://i42.fastpic.ru/big/2012/0823/b4/56493e8f8d7304c58506d93a435386b4.jpg"
     },
-    "3469658": {
-        "Description": "Подводная лодка / Das Boot (Вольфганг Петерсен / Wolfgang Petersen) [1985, Германия, Великобритания, Франция, драма, DVDRip][Полная версия / Uncut] MVO",
-        "Downloads": 21787,
-        "Seeders": "20",
+    "772956": {
+        "Description": "Альфред Хичкок представляет (сериал 1985-1989),Беспокойный пациент/Глас умерших/Друг по переписке/Если обувь в пору/Жиголо / Alfred Hitchcock Presents (А.Кинг.У.Корхоран.Р.Варнье.Т.Картер)копия с Рен тв [триллер/чёрный юмор, VHSRip]Voi 2 [США]",
+        "Downloads": 3664,
+        "Seeders": "7",
         "Leechers": "0",
-        "GB": "2.18 GB"
+        "GB": "1.71 GB",
+        "pic_url": "http://ipicture.ru/uploads/080406/CMNYhPyU72.jpg"
     },
-    "1361478": {
-        "Description": "Нюрнбергский процесс / Judgment At Nuremberg (Стэнли Крамер / Stanley Kramer) [1961, США, драма, история, DVDRip-AVC] MVO + original + sub",
-        "Downloads": 7092,
-        "Seeders": "5",
-        "Leechers": "0",
-        "GB": "2.05 GB"
-    },
-    "3792851": {
-        "Description": "Тайна в его глазах / Тайна в её глазах / The Secret in Their Eyes / El secreto de sus ojos (Хуан Хосе Кампанелла / Juan José Campanella) [2009, Испания, Аргентина, драма, мелодрама, детектив, BDRip] MVO",
-        "Downloads": 53202,
-        "Seeders": "54",
+    "3545188": {
+        "Description": "Нюрнбергский процесс / Judgment at Nuremberg (Стэнли Крамер / Stanley Kramer) [1961, США, драма, исторический, HDRip] DUB + MVO + DVO (Культура) + Sub Rus, Eng + original Eng",
+        "Downloads": 5747,
+        "Seeders": "22",
         "Leechers": "1",
-        "GB": "1.45 GB"
+        "GB": "2.18 GB",
+        "pic_url": "http://i2.imageban.ru/out/2015/08/28/e753d508409428b7ed94ddc224e8c88c.jpg"
     },
-    "535659": {
-        "Description": "Золотая лихорадка / The Gold Rush (Чарльз Чаплин /Charles Chaplin) [1925, Комедия, DVDRip]",
-        "Downloads": 7672,
-        "Seeders": "1",
+    "4260525": {
+        "Description": "Тайна в его глазах / The Secret in Their Eyes / El secreto de sus ojos (Хуан Хосе Кампанелла / Juan José Campanella) [2009, Испания, Аргентина, драма, мелодрама, детектив, BDRip-AVC] AVO (Сербин) + MVO + Original (Spa) + Sub (rus, eng, spa)",
+        "Downloads": 12301,
+        "Seeders": "32",
+        "Leechers": "1",
+        "GB": "3.32 GB",
+        "pic_url": "http://i48.fastpic.ru/big/2012/1124/94/35030c70743ad1fa1c1fb7fc8c58f594.jpg"
+    },
+    "5172812": {
+        "Description": "Золотая лихорадка / The Gold Rush (Чарльз Чаплин / Charles Chaplin) [1925, США, драма, мелодрама, комедия, приключения, BDRip] [Silent Version / Немая версия] Sub (Rus) + Original",
+        "Downloads": 4535,
+        "Seeders": "28",
         "Leechers": "0",
-        "GB": "746.3 MB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i73.fastpic.ru/big/2016/0217/26/4ff31a5c3a2a8873aabe7d0e8aacbf26.jpg"
     },
     "3241965": {
         "Description": "Мост через реку Квай / The Bridge on the River Kwai (Дэвид Лин / David Lean) [1957, США, Великобритания, драма, приключения, военный, HDRip] 2xMVO",
-        "Downloads": 19945,
-        "Seeders": "16",
+        "Downloads": 19979,
+        "Seeders": "26",
         "Leechers": "0",
-        "GB": "1.47 GB"
+        "GB": "1.47 GB",
+        "pic_url": "http://i4.fastpic.ru/big/2010/1030/c3/6617f0eeb4daf48e88aca134d09744c3.jpg"
     },
-    "4239759": {
-        "Description": "Игры разума / A Beautiful Mind (Рон Ховард / Ron Howard) [2001, США, драма, биография, BDRip] Dub",
-        "Downloads": 125487,
-        "Seeders": "129",
+    "4541899": {
+        "Description": "Игры разума / A Beautiful Mind (Рон Ховард / Ron Howard) [2001, США, драма, биография, BDRip-AVC] [EUR] Dub + 3хMVO + AVO + Original (Eng) + Sub (Rus, Eng)",
+        "Downloads": 6511,
+        "Seeders": "4",
         "Leechers": "2",
-        "GB": "1.46 GB"
+        "GB": "6.42 GB",
+        "pic_url": "http://i57.fastpic.ru/big/2013/0922/43/262fe79fca3e5ece0fb4afe4de215f43.jpg"
     },
-    "4037402": {
-        "Description": "Карты, деньги, два ствола / Lock, Stock and Two Smoking Barrels (Гай Ричи / Guy Ritchie) [1998, Великобритания, триллер, криминал, HDRip-AVC] MVO Киномания + AVO Дмитрий Пучков (Гоблин) Sub Rus + Original Eng",
-        "Downloads": 110910,
-        "Seeders": "202",
-        "Leechers": "6",
-        "GB": "2.93 GB"
+    "4140843": {
+        "Description": "Карты, деньги, два ствола / Lock, Stock and Two Smoking Barrels (Гай Ричи / Guy Ritchie) [1998, Великобритания, триллер, криминал, комедия..., BDRip] AVO Гоблин + AVO Сербин",
+        "Downloads": 52112,
+        "Seeders": "37",
+        "Leechers": "4",
+        "GB": "1.75 GB",
+        "pic_url": "http://i41.fastpic.ru/big/2012/0731/d7/4edb483eff7675898010b5b249a4dcd7.png"
     },
-    "3151609": {
-        "Description": "Казино / Casino (Мартин Скорсезе / Martin Scorsese) [1995, США, Франция, триллер, драма, криминал, HDRip] MVO (ОРТ)",
-        "Downloads": 64301,
-        "Seeders": "16",
+    "2711338": {
+        "Description": "Казино / Casino (Мартин Скорсезе / Martin Scorsese) [1995, США, Франция, триллер, драма, криминал, BDRip-AVC] DVO + Original (Eng) + Sub (Rus, Eng)",
+        "Downloads": 10069,
+        "Seeders": "10",
         "Leechers": "0",
-        "GB": "1.46 GB"
-    },
-    "4399199": {
-        "Description": "В порту / On the Waterfront (Элиа Казан / Elia Kazan) [1954, США, драма, BDRip] 2xDVO + Sub Rus + Original Eng",
-        "Downloads": 7593,
-        "Seeders": "12",
-        "Leechers": "0",
-        "GB": "2.19 GB"
+        "GB": "4.37 GB",
+        "pic_url": "http://i1.fastpic.ru/big/2010/0203/94/6fe1aa0fb67c50b491d5ee1eb42a8e94.png"
     },
     "5506606": {
         "Description": "Три билборда на границе Эббинга, Миссури / Three Billboards Outside Ebbing, Missouri (Мартин МакДона / Martin McDonagh) [2017, Великобритания, драма, комедия, криминал, HDRip] Dub",
-        "Downloads": 114195,
-        "Seeders": "597",
-        "Leechers": "18",
-        "GB": "1.46 GB"
+        "Downloads": 114634,
+        "Seeders": "553",
+        "Leechers": "25",
+        "GB": "1.46 GB",
+        "pic_url": "http://i100.fastpic.ru/big/2018/0113/42/8115b8cc45985184ae5fb171a5cc4842.png"
     },
-    "4707208": {
-        "Description": "Волк с Уолл-стрит / The Wolf of Wall Street (Мартин Скорсезе / Martin Scorsese) [2013, США, драма, комедия, криминал, биография, BDRip-AVC] Dub (студия \"Пифагор\") Line + Original Eng + Sub (Rus, Eng)",
-        "Downloads": 129839,
-        "Seeders": "89",
+    "133884": {
+        "Description": "В порту / On the Waterfront (Элиа Казан / Elia Kazan) [1954, США, драма, криминал, HDRip] 2хDVO",
+        "Downloads": 3935,
+        "Seeders": "3",
         "Leechers": "1",
-        "GB": "3.76 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i2.imageban.ru/out/2013/03/09/cae98bf25177921fb6dda6ebccce3c05.jpg"
+    },
+    "4754408": {
+        "Description": "Волк с Уолл-стрит / The Wolf of Wall Street (Мартин Скорсезе / Martin Scorsese) [2013, США, Драма, комедия, криминал, биография, BDRip] Dub",
+        "Downloads": 115126,
+        "Seeders": "246",
+        "Leechers": "1",
+        "GB": "1.46 GB",
+        "pic_url": "http://i57.fastpic.ru/big/2014/0316/ca/37e270ce18e192e5ae5bdcfb8c05f2ca.png"
     },
     "3470954": {
         "Description": "V значит Вендетта / V for Vendetta (Джеймс МакТиг / James McTeigue) [2005, Германия, США, Великобритания, фантастика, боевик, триллер, BDRip] Dub",
-        "Downloads": 131363,
-        "Seeders": "29",
-        "Leechers": "3",
-        "GB": "1.46 GB"
+        "Downloads": 131405,
+        "Seeders": "41",
+        "Leechers": "1",
+        "GB": "1.46 GB",
+        "pic_url": "http://i6.imageban.ru/out/2013/10/10/dc369417dc28a893978b8564511273b9.png]d22ac81e34650d46d0bca6de84a01530.png"
     },
-    "731392": {
-        "Description": "Мистер Смит едет в Вашингтон / Mr. Smith Goes to Washington (Фрэнк Капра /Frank Capra) [1939, США, Драма, DVDRip]",
-        "Downloads": 3223,
-        "Seeders": "1",
+    "4903842": {
+        "Description": "Мистер Смит едет в Вашингтон / Mr. Smith Goes to Washington (Фрэнк Капра / Frank Capra) [1939, США, драма, HDRip] DVO (Светла)",
+        "Downloads": 2860,
+        "Seeders": "2",
         "Leechers": "0",
-        "GB": "1.44 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i64.fastpic.ru/big/2014/1217/c0/e1cb209c043ce3a0099906a575e48dc0.jpg"
     },
-    "5148515": {
-        "Description": "Комната / Room (Леонард Абрахамсон / Lenny Abrahamson) [2015, Ирландия, Канада, драма, DVDScr] MVO (Паровоз Продакшн)",
-        "Downloads": 57832,
-        "Seeders": "53",
-        "Leechers": "2",
-        "GB": "1.44 GB"
+    "5152900": {
+        "Description": "Военная комната / Командный пункт / War Room (Алекс Кендрик / Alex Kendrick) [2015, США, драма, BDRip-AVC] MVO + Sub (Rus, Eng)",
+        "Downloads": 2746,
+        "Seeders": "6",
+        "Leechers": "0",
+        "GB": "1.41 GB",
+        "pic_url": "http://i73.fastpic.ru/big/2016/0117/55/6ca741bad42eea4fc0cb35120ba34d55.png"
     },
     "4798771": {
         "Description": "Воин / Warrior (Гэвин О’Коннор / Gavin O'Connor) [2011, США, боевик, драма, спорт, BDRip] MVO",
-        "Downloads": 39062,
-        "Seeders": "58",
-        "Leechers": "1",
-        "GB": "1.46 GB"
+        "Downloads": 39141,
+        "Seeders": "66",
+        "Leechers": "0",
+        "GB": "1.46 GB",
+        "pic_url": "http://i1.imageban.ru/out/2014/08/08/814097eeabae23e6569edc9e45d1b715.jpg"
     },
-    "3414327": {
-        "Description": "Бегущий по лезвию / Blade Runner (Ридли Скотт / Ridley Scott) [1982, США, Гонконг, фантастика, триллер, драма, мелодрама, BDRip] [Полная версия / The Final Cut] Dub",
-        "Downloads": 141702,
-        "Seeders": "155",
-        "Leechers": "2",
-        "GB": "1.46 GB"
+    "488719": {
+        "Description": "Бегущий по лезвию бритвы / Blade Runner (Ридли Скотт / Ridley Scott) [1982, США, Триллер, Фантастика, DVDRip] AVO",
+        "Downloads": 7909,
+        "Seeders": "24",
+        "Leechers": "0",
+        "GB": "2 GB",
+        "pic_url": "http://i28.fastpic.ru/big/2012/0130/ec/5db1120976751417029b420cd61843ec.jpg"
     },
     "3421787": {
         "Description": "Старикам тут не место / No Country for Old Men (Итэн Коэн / Ethan Coen, Джоэл Коэн / Joel Coen) [2007, США, триллер, драма, криминал, HDRip] Dub",
-        "Downloads": 138647,
-        "Seeders": "125",
-        "Leechers": "1",
-        "GB": "1.46 GB"
+        "Downloads": 138844,
+        "Seeders": "113",
+        "Leechers": "3",
+        "GB": "1.46 GB",
+        "pic_url": "http://i27.fastpic.ru/big/2011/1008/30/ad0369106bf476fe7b54e58a1b378330.png"
     },
-    "3766312": {
-        "Description": "Нефть / There Will Be Blood (Пол Томас Андерсон / Paul Thomas Anderson) [2007, США, драма, HDRip] Dub",
-        "Downloads": 77016,
-        "Seeders": "73",
-        "Leechers": "1",
-        "GB": "1.46 GB"
+    "5665988": {
+        "Description": "Нефть / There Will Be Blood (Пол Томас Андерсон / Paul Thomas Anderson) [2007, США, Драма, BDRip] Dub + 3х AVO + Original Eng + Sub Rus, Eng",
+        "Downloads": 1466,
+        "Seeders": "20",
+        "Leechers": "8",
+        "GB": "4.04 GB",
+        "pic_url": "http://c.radikal.ru/c23/1810/10/6263fe5e44fa.jpg"
     },
     "4344038": {
         "Description": "Шестое чувство / The Sixth Sense (М. Найт Шьямалан / M. Night Shyamalan) [1999, США, Триллер, драма, детектив, BDRip] Dub",
-        "Downloads": 58976,
-        "Seeders": "134",
-        "Leechers": "4",
-        "GB": "1.46 GB"
+        "Downloads": 59164,
+        "Seeders": "143",
+        "Leechers": "3",
+        "GB": "1.46 GB",
+        "pic_url": "http://i54.fastpic.ru/big/2013/0209/25/922bf5d0d4141ab4df64df03547c1825.png"
     },
-    "970019": {
-        "Description": "Унесённые ветром / Gone with the wind (Виктор Флеминг, Джордж Кьюкор, Сэм Вуд) [1939, США, мелодрама, DVDRip-AVC (очищеный советский дубляж)]",
-        "Downloads": 12613,
-        "Seeders": "4",
+    "4917392": {
+        "Description": "Унесённые ветром / Gone with the Wind (Виктор Флеминг / Victor Fleming, Джордж Кьюкор / George Cukor, Сэм Вуд / Sam Wood) [1939, США, Драма, мелодрама, военный, SATRip] [Советская прокатная копия] Dub",
+        "Downloads": 8832,
+        "Seeders": "12",
         "Leechers": "1",
-        "GB": "2.91 GB"
+        "GB": "2.79 GB",
+        "pic_url": "http://i65.fastpic.ru/big/2015/0117/e1/6c851f6b987ddd517c448f0bc2b301e1.jpg"
     },
-    "4161270": {
-        "Description": "Нечто / The Thing (Джон Карпентер / John Carpenter) [1982, США, ужасы, фантастика, триллер, HDDVDRip-AVC] AVO (Гоблин) + MVO (Лизард R5) + AVO (Михалев) + MVO (Киномания) + Original Eng + Eng Sub",
-        "Downloads": 32246,
-        "Seeders": "41",
-        "Leechers": "1",
-        "GB": "2.19 GB"
+    "5288461": {
+        "Description": "Нечто / The Thing (Джон Карпентер / John Carpenter) [1982, США, ужасы, фантастика, детектив, BDRip-AVC] [Remastered Collector's Edition] MVO (Киномания) + AVO (Гаврилов) + Original + Sub (rus, eng)",
+        "Downloads": 6270,
+        "Seeders": "46",
+        "Leechers": "0",
+        "GB": "4.17 GB",
+        "pic_url": "http://i83.fastpic.ru/big/2016/0928/2c/f21982b5a6ae64252e51676479a63e2c.jpg"
     },
     "2136500": {
         "Description": "Фарго / Fargo (Джоэл Коэн, Итэн Коэн / Joel Coen, Ethan Coen) [1996, США, триллер, криминал, BDRip-AVC] MVO + Original + Sub (rus, eng)",
-        "Downloads": 49380,
-        "Seeders": "46",
-        "Leechers": "0",
-        "GB": "1.91 GB"
+        "Downloads": 49405,
+        "Seeders": "37",
+        "Leechers": "1",
+        "GB": "1.91 GB",
+        "pic_url": "http://s02.radikal.ru/i175/0908/70/6f7c96ad63a2.jpg"
     },
-    "3416468": {
-        "Description": "Гран Торино / Gran Torino (Клинт Иствуд / Clint Eastwood) [2008, США, драма, криминал, HDRip] Dub + sub",
-        "Downloads": 118936,
-        "Seeders": "67",
-        "Leechers": "3",
-        "GB": "1.46 GB"
-    },
-    "1871660": {
-        "Description": "Охотник на оленей / The Deer Hunter (Майкл Чимино / Michael Cimino) [1978, США, Великобритания, Драма, Военный, HDRip] MVO (Киномания)",
-        "Downloads": 54480,
-        "Seeders": "28",
+    "5667480": {
+        "Description": "Гран Торино / Gran Torino (Клинт Иствуд / Clint Eastwood) [2008, США, Германия, драма, BDRip-AVC] Dub + Original (Eng) + Sub (Rus, Eng)",
+        "Downloads": 1275,
+        "Seeders": "34",
         "Leechers": "0",
-        "GB": "1.47 GB"
+        "GB": "2.18 GB",
+        "pic_url": "https://i4.imageban.ru/out/2018/12/31/2ce33bf3ad5b62664d0c2dba1a8921b5.png"
+    },
+    "5715078": {
+        "Description": "Охотник на оленей / The Deer Hunter (Майкл Чимино / Michael Cimino) [1978, США, Великобритания, драма, военный, HDRip-AVC] Dub (Paramount) + MVO (SDI-Media) + Sub Rus, 2x Eng + Original Eng",
+        "Downloads": 402,
+        "Seeders": "4",
+        "Leechers": "0",
+        "GB": "4.32 GB",
+        "pic_url": "https://i3.imageban.ru/out/2019/04/06/b317cf9760c112e5d8507c69bb53fc9a.jpg"
     },
     "4524967": {
         "Description": "Остров проклятых / Shutter Island (Мартин Скорсезе / Martin Scorsese) [2010, США, триллер, драма, детектив, BDRip] Dub",
-        "Downloads": 165720,
-        "Seeders": "175",
+        "Downloads": 166090,
+        "Seeders": "178",
         "Leechers": "7",
-        "GB": "1.46 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i3.imageban.ru/out/2014/04/16/ff459f3a1d9ba2909e67e25fd70e7616.png]newproject.png"
     },
-    "1927134": {
-        "Description": "Большой Лебовский / The Big Lebowski (Джоэл Коэн / Joel Coen) [1998, США, Великобритания, комедия, криминал, HDRip] AVO (Гоблин)",
-        "Downloads": 142721,
-        "Seeders": "200",
-        "Leechers": "10",
-        "GB": "1.46 GB"
+    "2872547": {
+        "Description": "Большой Лебовски / The Big Lebowski (Джоэл Коэн / Joel Coen) [1998, США, Великобритания, комедия, криминал, HDRip] Dub + MVO + AVO ( Гоблин )",
+        "Downloads": 54290,
+        "Seeders": "44",
+        "Leechers": "2",
+        "GB": "1.47 GB",
+        "pic_url": "http://i2.fastpic.ru/big/2010/0228/ca/193a75a0b161d4bbce5e5030bd1182ca.jpg"
     },
-    "567560": {
-        "Description": "Шерлок младший / Sherlock Jr. (Бастер Китон/Buster Keaton) [1924, США, Комедия, DVDRip]",
-        "Downloads": 5384,
-        "Seeders": "1",
+    "1766658": {
+        "Description": "Убить Билла / Kill Bill: Vol. 1 (Квентин Тарантино / Quentin Tarantino) [2003, США, боевик, триллер, HDRip] Dub",
+        "Downloads": 9219,
+        "Seeders": "2",
+        "Leechers": "1",
+        "GB": "742.9 MB",
+        "pic_url": "http://i3.fastpic.ru/big/2009/1023/96/2b9665ed1f55503ae722923a0c2bc396.jpg"
+    },
+    "4288399": {
+        "Description": "Шерлок младший / Sherlock Jr. (Бастер Китон / Buster Keaton) [1924, США, Фэнтези, боевик, комедия, HDRip] [Немое кино] инертитры (eng) Sub (rus)",
+        "Downloads": 5304,
+        "Seeders": "15",
+        "Leechers": "2",
+        "GB": "874.3 MB",
+        "pic_url": "http://s002.radikal.ru/i199/1212/21/4af5cf949cd3.jpg"
+    },
+    "4291863": {
+        "Description": "Хладнокровный Люк / Cool Hand Luke (Стюарт Розенберг / Stuart Rosenberg) [1967, США, Драма, Криминал, BDRip] DVO (НТВ+) + DVO (CP Digital) + Sub (Rus, Eng) + Original Eng",
+        "Downloads": 3388,
+        "Seeders": "4",
         "Leechers": "0",
-        "GB": "689 MB"
-    },
-    "3463362": {
-        "Description": "Убить Билла / Kill Bill: Vol. 1 (Квентин Тарантино / Quentin Tarantino) [2003, США, боевик, драма, криминал, BDRip] Dub",
-        "Downloads": 58085,
-        "Seeders": "53",
-        "Leechers": "0",
-        "GB": "1.46 GB"
-    },
-    "3248778": {
-        "Description": "Хладнокровный Люк / Cool Hand Luke (Стюарт Розенберг / Stuart Rosenberg) [1967, США, драма, криминал, HDRip-AVC] DVO + Original + Sub",
-        "Downloads": 8950,
-        "Seeders": "10",
-        "Leechers": "0",
-        "GB": "2.18 GB"
+        "GB": "2.35 GB",
+        "pic_url": "http://s001.radikal.ru/i194/1212/78/25285cedccf5.jpg"
     },
     "3975269": {
         "Description": "Ребекка / Rebecca (Альфред Хичкок / Alfred Hitchcock) [1940, США, триллер, мелодрама, драма, детектив, BDRip] MVO (New Dream Media) + MVO (SomeWax)",
-        "Downloads": 15350,
-        "Seeders": "20",
+        "Downloads": 15374,
+        "Seeders": "18",
         "Leechers": "0",
-        "GB": "1.46 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i30.fastpic.ru/big/2012/0308/64/2cf89092bed594bec3c0ad95a2e79864.png"
     },
-    "5362411": {
-        "Description": "По соображениям совести / Hacksaw Ridge (Мэл Гибсон / Mel Gibson) [2016, Австралия, США, драма, военный, история, BDRip] Dub",
-        "Downloads": 58801,
-        "Seeders": "185",
-        "Leechers": "2",
-        "GB": "1.47 GB"
+    "5354452": {
+        "Description": "По соображениям совести / Hacksaw Ridge (Мэл Гибсон / Mel Gibson) [2016, Австралия, США, драма, военный, история, BDRip-AVC] Dub + Original + Sub (rus, eng)",
+        "Downloads": 30979,
+        "Seeders": "113",
+        "Leechers": "4",
+        "GB": "2.18 GB",
+        "pic_url": "http://i90.fastpic.ru/big/2017/0208/4d/f1336732635503b3179113b6a8dbaf4d.jpg"
     },
-    "4505733": {
-        "Description": "Парк Юрского периода / Jurassic Park (Стивен Спилберг / Steven Spielberg) [1993, США, Приключения, фантастика, семейный, BDRip] Dub",
-        "Downloads": 32197,
-        "Seeders": "92",
-        "Leechers": "1",
-        "GB": "1.46 GB"
+    "4611677": {
+        "Description": "Парк Юрского периода / Jurassic Park (Стивен Спилберг / Steven Spielberg) [1993, США, приключения, фантастика, BDRip-AVC] Dub + MVO (Пифагор) + Eng, Sub (Rus, Eng)",
+        "Downloads": 11748,
+        "Seeders": "24",
+        "Leechers": "0",
+        "GB": "4.37 GB",
+        "pic_url": "http://i57.fastpic.ru/big/2013/1210/3c/81d7954c8b76b00fd5696fbcd4bb993c.jpg"
     },
-    "4897027": {
-        "Description": "Исчезнувшая / Gone Girl (Дэвид Финчер / David Fincher) [2014, США, триллер, драма, детектив, BDRip] Dub",
-        "Downloads": 324081,
-        "Seeders": "150",
-        "Leechers": "2",
-        "GB": "1.46 GB"
+    "5677462": {
+        "Description": "Исчезнувшая / Gone Girl (Дэвид Финчер / David Fincher) [2014, США, триллер, драма, детектив, WEBRip-AVC] [Open Matte / Локализованный видеоряд] Dub + Sub Rus Eng",
+        "Downloads": 1761,
+        "Seeders": "27",
+        "Leechers": "4",
+        "GB": "1.45 GB",
+        "pic_url": "https://i110.fastpic.ru/big/2019/0216/5e/211ca10118131154cb0617523e584a5e.jpg"
     },
     "5159117": {
         "Description": "Дикие истории / Relatos salvajes / Wild Tales (Дамиан Сифрон / Damián Szifrón) [2014, Аргентина, Испания, триллер, драма, комедия, BDRip-AVC] Dub + Original Spa + Sub",
-        "Downloads": 33382,
-        "Seeders": "128",
-        "Leechers": "4",
-        "GB": "2.12 GB"
+        "Downloads": 33586,
+        "Seeders": "133",
+        "Leechers": "1",
+        "GB": "2.12 GB",
+        "pic_url": "http://i74.fastpic.ru/big/2016/0127/d4/23f85a1e40f8298b5e7659b67bf2cad4.png"
     },
-    "1318939": {
-        "Description": "Восход солнца / Sunrise: A Song of Two Humans (Фридрих Вильгельм Мурнау / F.W. Murnau) [1927, США, мелодрама, драма, криминал, DVDRip-AVC, sub]",
-        "Downloads": 4626,
-        "Seeders": "3",
+    "4284192": {
+        "Description": "Рассвет: Песня двух человек / Восход солнца / Sunrise: A Song of Two Humans (Фридрих Вильгельм Мурнау / F.W. Murnau) [1927, США, драма, BDRip] VO (Видеоимпульс)",
+        "Downloads": 3667,
+        "Seeders": "8",
         "Leechers": "0",
-        "GB": "1.09 GB"
+        "GB": "1.45 GB",
+        "pic_url": "http://i53.fastpic.ru/big/2012/1215/7c/f437c5f33eb0596db1616ad30b46047c.jpg"
     },
-    "3762360": {
-        "Description": "Шоу Трумана / Шоу Трумэна / The Truman Show (Питер Уир / Peter Weir) [1998, США, драма, BDRip] MVO (Universal Pictures Rus)",
-        "Downloads": 141832,
-        "Seeders": "121",
-        "Leechers": "3",
-        "GB": "1.46 GB"
-    },
-    "2936009": {
-        "Description": "Во имя отца / In the Name of the Father (Джим Шеридан / Jim Sheridan) [1993, Великобритания, Ирландия, биография, драма, HDTVRip] MVO",
-        "Downloads": 14329,
+    "4238493": {
+        "Description": "Шоу Трумана / Шоу Трумэна / The Truman Show (Питер Уир / Peter Weir) [1998, США, фантастика, драма, комедия, BDRip] AVO [Живов] + AVO [Визгунов]",
+        "Downloads": 5277,
         "Seeders": "3",
+        "Leechers": "1",
+        "GB": "1.46 GB",
+        "pic_url": "http://i46.fastpic.ru/big/2012/1103/aa/cbf3f58fbe46d1843c0f69109026f0aa.png"
+    },
+    "4415673": {
+        "Description": "Во имя отца / In the Name of the Father (Джим Шеридан /Jim Sheridan) [1993, Ирландия, Великобритания, триллер, драма, биография, BDRip-AVC] MVO + AVO (А. Гаврилов) + Sub Eng + Original (Eng)",
+        "Downloads": 4513,
+        "Seeders": "14",
         "Leechers": "0",
-        "GB": "1.46 GB"
+        "GB": "2.18 GB",
+        "pic_url": "http://i33.fastpic.ru/big/2013/0419/0a/1eb73221cbe2858e34f42b63b985870a.jpg"
+    },
+    "5332205": {
+        "Description": "Останься со мной / Stand by Me (Роб Райнер / Rob Reiner) [1986, США, драма, приключения, BDRip] MVO (ОРТ) + MVO (SDI Media) + MVO (Видеосервис) + DVO (НТВ+)",
+        "Downloads": 1154,
+        "Seeders": "13",
+        "Leechers": "2",
+        "GB": "1.73 GB",
+        "pic_url": "http://i101.fastpic.ru/big/2018/0205/26/3ea933273b5d8b98b1cf8b9418db9b26.jpg"
     },
     "4577957": {
         "Description": "В диких условиях / Into the Wild (Шон Пенн / Sean Penn) [2007, США, Драма, приключения, биография, BDRip] DVO (НТВ+)",
-        "Downloads": 93840,
-        "Seeders": "106",
+        "Downloads": 93983,
+        "Seeders": "96",
         "Leechers": "3",
-        "GB": "1.46 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i57.fastpic.ru/big/2013/1102/c1/630b69ef851cd65d79e138c553ab11c1.png"
     },
-    "3478355": {
-        "Description": "Останься со мной / Stand by Me (Роб Райнер / Rob Reiner) [1986, США, драма, приключения, HDRip] MVO + AVO (Юрий Живов) + original (eng) + Sub (eng)",
-        "Downloads": 19751,
-        "Seeders": "11",
-        "Leechers": "2",
-        "GB": "1.76 GB"
+    "5249003": {
+        "Description": "Это случилось однажды ночью / Одной счастливой ночью / It Happened One Night (Фрэнк Капра / Frank Capra) [1934, США, комедия, мелодрама, BDRip] MVO (DVD Land) + DVO (Светла) + DVO (New Dream Media) + Sub Eng + Original Eng",
+        "Downloads": 4028,
+        "Seeders": "15",
+        "Leechers": "6",
+        "GB": "1.72 GB",
+        "pic_url": "http://i6.imageban.ru/out/2016/06/30/9f41bc87a534b5779c6bde14e8b585c4.jpg"
     },
-    "265621": {
-        "Description": "Это случилось однажды ночью / It Happened One Night (Фрэнк Капра / Frank Capra) [1934, США, Комедия, DVDRip] DVO + Original Eng",
-        "Downloads": 5179,
+    "1901726": {
+        "Description": "Взвод / Platoon (Оливер Стоун /Oliver Stone) [1986, США, Великобритания, Боевик, Драма, Военный, DVDRip] Dub + MVO + AVO (Гоблин, Гаврилов)",
+        "Downloads": 5950,
         "Seeders": "1",
         "Leechers": "0",
-        "GB": "699.4 MB"
+        "GB": "2.14 GB",
+        "pic_url": "http://img338.imageshack.us/img338/9242/platoon2vo2.jpg"
     },
-    "3011847": {
-        "Description": "Взвод / Platoon (Оливер Стоун / Oliver Stone) [1986, США, боевик, драма, военный, HDRip] AVO (Гоблин / Goblin)",
-        "Downloads": 31795,
-        "Seeders": "18",
+    "3452505": {
+        "Description": "Телесеть / Network (Сидни Люмет / Sidney Lumet) [1976, США, драма, BDRip-AVC] MVO + original eng + Sub (rus, eng)",
+        "Downloads": 6600,
+        "Seeders": "5",
         "Leechers": "1",
-        "GB": "1.46 GB"
+        "GB": "2.3 GB",
+        "pic_url": "http://twinpix.nu/uploads/full/47808.jpg"
     },
-    "4057525": {
-        "Description": "Телесеть / Network (Сидни Люмет / Sidney Lumet) [1976, США, драма, BDRip] MVO + Original + Sub (Rus)",
-        "Downloads": 13296,
-        "Seeders": "16",
-        "Leechers": "0",
-        "GB": "1.45 GB"
-    },
-    "3144679": {
-        "Description": "Бен-Гур / Ben-Hur (Уильям Уайлер / William Wyler) [1959, США, Историческая драма, приключения, HDTVRip] DUB (Варус Видео)",
-        "Downloads": 19661,
+    "4073250": {
+        "Description": "Бен-Гур / Ben-Hur (Уильям Уайлер / William Wyler) [1959, США, боевик, драма, мелодрама, приключения, история, HDRip-AVC] MVO «DVD Магия» + MVO «Медиа-Комплекс» + Sub",
+        "Downloads": 10651,
         "Seeders": "9",
-        "Leechers": "0",
-        "GB": "1.9 GB"
+        "Leechers": "1",
+        "GB": "1.45 GB",
+        "pic_url": "http://i27.fastpic.ru/big/2012/0122/76/e1e478316e2340c3758fc9325637ae76.png"
     },
-    "5211931": {
-        "Description": "12 лет рабства / 12 Years a Slave (Стив МакКуин / Steve McQueen) [2013, США, Драма, биография, история, BDRip] Dub",
-        "Downloads": 18189,
-        "Seeders": "64",
-        "Leechers": "3",
-        "GB": "1.46 GB"
+    "5337106": {
+        "Description": "12 лет рабства / 12 Years a Slave (Стив МакКуин / Steve McQueen) [2013, США, Великобритания, драма, биография, история, BDRip-AVC] Dub + AVO (Сербин) + Original Eng + Sub (Rus, Eng)",
+        "Downloads": 3614,
+        "Seeders": "16",
+        "Leechers": "5",
+        "GB": "3.33 GB",
+        "pic_url": "http://i91.fastpic.ru/big/2017/0106/de/4ca79d5274ea35722dd57de6c49225de.png"
     },
-    "99896": {
-        "Description": "Отель Руанда / Hotel Rwanda (Терри Джордж /Terry George) [2004, США, Великобритания, Италия, ЮАР, Драма, DVDRip](Топовый фильм!)",
-        "Downloads": 9829,
-        "Seeders": "1",
+    "673818": {
+        "Description": "Отель Руанда / Hotel Rwanda (Терри Джордж) [2004, триллер, драма, военный, история, DVDRip]",
+        "Downloads": 347,
+        "Seeders": "3",
         "Leechers": "0",
-        "GB": "1.37 GB"
+        "GB": "699.9 MB",
+        "pic_url": "https://t3.ftcdn.net/jpg/01/01/89/46/240_F_101894688_RVSZUtDfPR6Cr5eBDQI7Qo5pZ01jmyK3.jpg"
     },
     "4078836": {
         "Description": "Малышка на миллион / Million Dollar Baby (Клинт Иствуд / Clint Eastwood) [2004, США, Драма, спорт, BDRip] Dub",
-        "Downloads": 68223,
-        "Seeders": "71",
-        "Leechers": "1",
-        "GB": "1.46 GB"
+        "Downloads": 68406,
+        "Seeders": "67",
+        "Leechers": "4",
+        "GB": "1.46 GB",
+        "pic_url": "http://i26.fastpic.ru/big/2012/0531/9d/c95bdf912e4f82238abd1a475267a99d.png"
+    },
+    "4502578": {
+        "Description": "Перед рассветом / Before Sunrise (Ричард Линклэйтер / Richard Linklater) [1995, США, Австрия, Швейцария, драма, мелодрама, WEB-DLRip] DVO",
+        "Downloads": 4629,
+        "Seeders": "3",
+        "Leechers": "0",
+        "GB": "746.2 MB",
+        "pic_url": "http://i49.fastpic.ru/big/2013/0803/30/fc1092f4034e93b591c969be6cb63830.jpg"
     },
     "4412556": {
         "Description": "Бандит / Street Gun (Трейвис Миллоу / Travis Milloy) [1996, США, Гангстерская драма, DVDRip] AVO (Карцев)",
-        "Downloads": 1429,
-        "Seeders": "2",
+        "Downloads": 1432,
+        "Seeders": "3",
         "Leechers": "0",
-        "GB": "1.34 GB"
-    },
-    "4296054": {
-        "Description": "Перед рассветом / Before Sunrise (Ричард Линклэйтер / Richard Linklater) [1995, США, Швейцария, Австрия, мелодрама, драма, HDRip] DVO + Original (Eng) + Sub (Rus, Eng)",
-        "Downloads": 31323,
-        "Seeders": "26",
-        "Leechers": "0",
-        "GB": "1.46 GB"
-    },
-    "2900788": {
-        "Description": "Плата за страх / Salaire de la peur, Le / The Wages of Fear (Анри-Жорж Клузо / Henri-Georges Clouzot) [1953, Франция, Италия, Экзистенциальный триллер, BDRip] Советский дубляж + MVO",
-        "Downloads": 11381,
-        "Seeders": "18",
-        "Leechers": "1",
-        "GB": "1.48 GB"
+        "GB": "1.34 GB",
+        "pic_url": "http://i33.fastpic.ru/big/2013/0415/f9/91cb6cbcb7eb801575ed5441130c58f9.jpg"
     },
     "4932563": {
         "Description": "Пленницы / Prisoners (Дени Вильнёв / Denis Villeneuve) [2013, США, Триллер, драма, криминал, BDRip] Dub",
-        "Downloads": 72153,
-        "Seeders": "155",
-        "Leechers": "5",
-        "GB": "1.46 GB"
+        "Downloads": 72408,
+        "Seeders": "142",
+        "Leechers": "0",
+        "GB": "1.46 GB",
+        "pic_url": "http://i57.fastpic.ru/big/2015/0205/b7/7c0d22b26eb4a95c48556c5b840f89b7.png"
+    },
+    "2900788": {
+        "Description": "Плата за страх / Salaire de la peur, Le / The Wages of Fear (Анри-Жорж Клузо / Henri-Georges Clouzot) [1953, Франция, Италия, Экзистенциальный триллер, BDRip] Советский дубляж + MVO",
+        "Downloads": 11400,
+        "Seeders": "20",
+        "Leechers": "1",
+        "GB": "1.48 GB",
+        "pic_url": "http://i6.fastpic.ru/big/2010/0412/5a/0101729f1f9ad3fad4c910ee46136f5a.jpg"
     },
     "5058113": {
         "Description": "Безумный Макс: Дорога ярости / Mad Max: Fury Road (Джордж Миллер / George Miller) [2015, Австралия, Боевик, фантастика, приключения, BDRip] Dub",
-        "Downloads": 108601,
+        "Downloads": 108682,
         "Seeders": "82",
         "Leechers": "1",
-        "GB": "1.46 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i71.fastpic.ru/big/2015/0629/76/6b6920631a1e62d6fe98059117fe5c76.png"
     },
-    "4640781": {
-        "Description": "Гонка / Rush (Рон Ховард / Ron Howard) [2013, США, Германия, Великобритания, Спорт, драма, биография, BDRip-AVC] Dub (Line) + Eng + Sub (Rus, Eng)",
-        "Downloads": 105142,
-        "Seeders": "59",
+    "4986727": {
+        "Description": "Гонка / Rush (Рон Ховард / Ron Howard) [2013, Великобритания, Спорт, драма, биография, BDRip] MVO (Омикрон)",
+        "Downloads": 8945,
+        "Seeders": "23",
         "Leechers": "1",
-        "GB": "2.18 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i59.fastpic.ru/big/2015/0416/ad/97d18407f3d6858653dc7af8853871ad.png"
     },
     "5112910": {
         "Description": "Хатико: Самый верный друг / Hachiko (Hachi): A Dog's Story (Лассе Халльстрём / Lasse Hallström) [2009, США, Великобритания, драма, семейный, BDRip-AVC] Dub + Original Eng + Sub",
-        "Downloads": 16663,
-        "Seeders": "48",
-        "Leechers": "1",
-        "GB": "1.45 GB"
+        "Downloads": 16743,
+        "Seeders": "49",
+        "Leechers": "0",
+        "GB": "1.45 GB",
+        "pic_url": "http://i76.fastpic.ru/big/2016/0123/b5/753bcdf1fe337375e05b38d186dcc8b5.png"
     },
     "5164324": {
         "Description": "В центре внимания / Spotlight (Том МакКарти / Tom McCarthy) [2015, США, Триллер, драма, биография, история, BDRip] MVO",
-        "Downloads": 51385,
-        "Seeders": "77",
+        "Downloads": 51453,
+        "Seeders": "81",
+        "Leechers": "0",
+        "GB": "1.46 GB",
+        "pic_url": "http://i75.fastpic.ru/big/2016/0221/28/a420f278a009f4508cffd06fc1b80228.png"
+    },
+    "4270451": {
+        "Description": "Поймай меня, если сможешь / Catch Me If You Can (Стивен Спилберг / Steven Spielberg) [2002, США, Канада, драма, комедия, криминал, биография, BDRip] Dub + AVO (Гаврилов) + Original + Sub (Rus, Eng, Eng SDH)",
+        "Downloads": 38907,
+        "Seeders": "53",
         "Leechers": "2",
-        "GB": "1.46 GB"
+        "GB": "2.91 GB",
+        "pic_url": "http://i4.imageban.ru/out/2012/12/03/7cca30d44d67a9baa1924da659021132.jpg"
     },
-    "4267340": {
-        "Description": "Поймай меня, если сможешь / Catch Me If You Can (Стивен Спилберг / Steven Spielberg) [2002, США, драма, криминал, биография, BDRip-AVC] Dub + Sub (rus, eng)",
-        "Downloads": 136396,
-        "Seeders": "175",
-        "Leechers": "4",
-        "GB": "1.45 GB"
-    },
-    "4619989": {
-        "Description": "Гарри Поттер и Дары смерти: Часть II / Harry Potter and the Deathly Hallows: Part II (Дэвид Йэтс / David Yates) [2011, США, фэнтези, приключения, HDRip] Dub",
-        "Downloads": 128094,
-        "Seeders": "278",
-        "Leechers": "13",
-        "GB": "1.46 GB"
+    "4617100": {
+        "Description": "Гарри Поттер и Дары смерти: Часть II / Harry Potter and the Deathly Hallows: Part 2 (Дэвид Йэтс / David Yates) [2011, США, фэнтези, драма, детектив, приключения, BDRip] Dub + Dub Ukr + Original Eng + Sub Rus, Eng",
+        "Downloads": 56872,
+        "Seeders": "42",
+        "Leechers": "18",
+        "GB": "3 GB",
+        "pic_url": "http://i60.fastpic.ru/big/2013/1216/70/7bff5dcab0a9ce45346ab6fc67d64a70.jpg"
     },
     "4594937": {
         "Description": "Принцесса-Невеста / The Princess Bride (Роб Райнер / Rob Reiner) [1987, США, приключения, мелодрама, фэнтези, комедия, семейный, BDRip] 2 x MVO (ТВ3, ОРТ)",
-        "Downloads": 4806,
-        "Seeders": "25",
-        "Leechers": "0",
-        "GB": "1.42 GB"
+        "Downloads": 4851,
+        "Seeders": "20",
+        "Leechers": "1",
+        "GB": "1.42 GB",
+        "pic_url": "http://i58.fastpic.ru/big/2013/1121/35/b8324b13d2daca5c52647c63a270a135.jpg"
     },
-    "4616402": {
-        "Description": "Рокки / Rocky (Джон Г. Эвилдсен / John G. Avildsen) [1976, США, драма, спорт, BDRip] MVO (ОРТ) + DVO (НТВ)",
-        "Downloads": 14863,
-        "Seeders": "11",
+    "1167005": {
+        "Description": "Рокки / Rocky (Джон Г. Эвилдсен /John G. Avildsen) (в переводе Василия Горчакова) [1976, США, драма, DVDRip]",
+        "Downloads": 1233,
+        "Seeders": "2",
         "Leechers": "0",
-        "GB": "1.45 GB"
+        "GB": "645.3 MB",
+        "pic_url": "http://i3.fastpic.ru/big/2009/1023/58/d789c7ad1762db97976229d54c833658.jpg"
     },
     "3540160": {
         "Description": "Гроздья гнева / The Grapes of Wrath (Джон Форд / John Ford) [1940, США, драма, BDRip] 3xMVO",
-        "Downloads": 7127,
-        "Seeders": "16",
+        "Downloads": 7144,
+        "Seeders": "9",
         "Leechers": "0",
-        "GB": "1.47 GB"
+        "GB": "1.47 GB",
+        "pic_url": "http://i46.fastpic.ru/big/2013/0514/39/da3f7ee18ece873f0f1eba95ad663839.jpg"
     },
     "3605004": {
         "Description": "Мальтийский сокол / The Maltese Falcon (Джон Хьюстон / John Huston) [1941, США, фильм-нуар, криминал, детектив, BDRip] Dub (Варус-Видео)",
-        "Downloads": 12454,
-        "Seeders": "10",
-        "Leechers": "0",
-        "GB": "1.46 GB"
+        "Downloads": 12472,
+        "Seeders": "8",
+        "Leechers": "1",
+        "GB": "1.46 GB",
+        "pic_url": "http://i22.fastpic.ru/big/2011/0608/66/50a081f76597db90c373a4c4edfe0566.jpg"
     },
     "4433026": {
         "Description": "Терминатор / The Terminator (Джеймс Кэмерон / James Cameron) [1984, Великобритания, США, фантастика, боевик, BDRip-AVC] Dub + Original (Eng) + Sub (Rus, Eng)",
-        "Downloads": 28305,
-        "Seeders": "39",
-        "Leechers": "0",
-        "GB": "1.46 GB"
-    },
-    "3624374": {
-        "Description": "Ганди / Gandhi (Ричард Аттенборо / Richard Attenborough) [1982, Великобритания, Индия, драма, исторический, биография, BDRip] Dub + AVO (Живов) + Original Eng + Sub Rus, Eng",
-        "Downloads": 28419,
-        "Seeders": "13",
+        "Downloads": 28358,
+        "Seeders": "55",
         "Leechers": "1",
-        "GB": "2.45 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i2.imageban.ru/out/2013/05/07/6d4839459df093d480dc2c3d042e00c9.png]newproject.png"
     },
-    "3400474": {
-        "Description": "Донни Дарко / Donnie Darko (Ричард Келли / Richard Kelly) [2001, США, драма, мистика, фантастика, триллер, HDRip] (Режиссерская версия / Directors cut) MVO (Киномания)",
-        "Downloads": 118468,
-        "Seeders": "69",
+    "4601752": {
+        "Description": "Ганди / Gandhi (Ричард Аттенборо / Richard Attenborough) [1982, Великобритания, Индия, драма, исторический, биография, BDRip] Dub (СССР) + AVO (Живов) + Original Eng + Sub Rus, Eng",
+        "Downloads": 1605,
+        "Seeders": "2",
+        "Leechers": "1",
+        "GB": "3.42 GB",
+        "pic_url": "http://i6.imageban.ru/out/2013/11/28/c8f5757c47cdc3a9d018026330e802fd.jpg"
+    },
+    "5327277": {
+        "Description": "Донни Дарко / Donnie Darko (Ричард Келли / Richard Kelly) [2001, США, триллер, драма, мистика, детектив, HDRip] [Режиссерская версия] AVO (Андрей Гаврилов)",
+        "Downloads": 2481,
+        "Seeders": "13",
         "Leechers": "0",
-        "GB": "1.46 GB"
+        "GB": "1.37 GB",
+        "pic_url": "http://i82.fastpic.ru/big/2016/1217/6b/c79fc566cf180e09f7d7d12dd17c5d6b.jpg"
     },
-    "3608035": {
-        "Description": "Дьяблик / Дьяволицы / Diabolique / Les diaboliques / The Devils (Анри-Жорж Клузо / Henri-Georges Clouzot) [1955, Франция, триллер, детектив, BDRip] MVO + AVO (Янкелевич) + Original + Sub (Rus, Eng)",
-        "Downloads": 9260,
-        "Seeders": "5",
+    "5619748": {
+        "Description": "Ненависть / La Haine (Матье Кассовиц/Mathieu Kassovitz) [1995, Франция, драма, DVDRip] MVO (Студия \"Нота\" по заказу ВГТРК 1998 год) + Original Fra",
+        "Downloads": 516,
+        "Seeders": "4",
         "Leechers": "2",
-        "GB": "1.53 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i89.fastpic.ru/big/2018/0927/5a/8bf25cb7a4afaaf687f4b6b6b9354a5a.png"
     },
-    "2960375": {
-        "Description": "Ненависть / La Haine (Матьё Кассовиц / Mathieu Kassovitz) [1995, Франция, Социальная молодёжная драма, BDRip] Mvo (Орт)",
-        "Downloads": 15945,
-        "Seeders": "1",
+    "5516678": {
+        "Description": "Дьяволицы / Дьяблик / Les diaboliques / Diabolique / The Devils (Анри-Жорж Клузо / Henri-Georges Clouzot) [1955, Франция, триллер, драма, детектив, BDRip] MVO (Петербург - 5 канал)",
+        "Downloads": 723,
+        "Seeders": "8",
         "Leechers": "0",
-        "GB": "1.45 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i100.fastpic.ru/big/2018/0205/ba/97206fbd0f1316926cc8d0ba29cdc6ba.jpg"
     },
     "2983904": {
         "Description": "День сурка / Groundhog Day (Харольд Рэмис / Harold Ramis) [1993, США, комедия, фэнтези, мелодрама, BDRip] MVO R5",
-        "Downloads": 101095,
-        "Seeders": "124",
-        "Leechers": "3",
-        "GB": "1.46 GB"
+        "Downloads": 101194,
+        "Seeders": "120",
+        "Leechers": "2",
+        "GB": "1.46 GB",
+        "pic_url": "http://s56.radikal.ru/i154/1005/7f/88587983aa5e.jpg"
     },
     "2939203": {
         "Description": "Волшебник страны Оз / The Wizard of Oz (Виктор Флеминг / Victor Fleming, Мервин ЛеРой / Mervyn LeRoy, Ричард Торп / Richard Thorpe, Кинг Видор / King Vidor) [1939, США, фэнтези, мюзикл, приключения, семейный, HDRip] Dub",
-        "Downloads": 19323,
-        "Seeders": "24",
+        "Downloads": 19358,
+        "Seeders": "22",
         "Leechers": "1",
-        "GB": "1.46 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://s60.radikal.ru/i167/1005/86/aa00e56daf5c.jpg"
     },
-    "3967203": {
-        "Description": "Прислуга / The Help (Тейт Тейлор / Tate Taylor) [2011, США, Индия, ОАЭ, драма, BDRip] MVO",
-        "Downloads": 121727,
-        "Seeders": "44",
-        "Leechers": "1",
-        "GB": "1.46 GB"
-    },
-    "4596663": {
-        "Description": "Челюсти / Jaws (Стивен Спилберг / Steven Spielberg) [1975, США, Ужасы, триллер, HDRip] 2хDVO (НТВ, Премьер Видео)",
-        "Downloads": 11903,
-        "Seeders": "13",
+    "4001950": {
+        "Description": "Прислуга / The Help (Тейт Тейлор / Tate Taylor) [2011, США, Индия, ОАЭ, Драма, BDRip-AVC] MVO + Sub Rus forced",
+        "Downloads": 37207,
+        "Seeders": "25",
         "Leechers": "0",
-        "GB": "1.47 GB"
+        "GB": "2.18 GB",
+        "pic_url": "http://i28.fastpic.ru/big/2011/1119/87/027eb3bf91309ff274b9b3163e71ae87.png"
+    },
+    "5193845": {
+        "Description": "Челюсти / Jaws (Стивен Спилберг / Steven Spielberg) [1975, США, триллер, BDRip-AVC] MVO + Original Eng + Sub",
+        "Downloads": 5868,
+        "Seeders": "35",
+        "Leechers": "1",
+        "GB": "1.45 GB",
+        "pic_url": "http://i74.fastpic.ru/big/2016/0321/52/e281915a650f176981a65eb9a5a34e52.png"
     },
     "4609144": {
         "Description": "Перед закатом / Before Sunset (Ричард Линклейтер / Richard Linklater) [2004, США, драма, мелодрама, WEB-DLRip] DVO + Sub (Rus; Eng) + Original Eng",
-        "Downloads": 19966,
-        "Seeders": "19",
-        "Leechers": "5",
-        "GB": "1.71 GB"
+        "Downloads": 20037,
+        "Seeders": "25",
+        "Leechers": "4",
+        "GB": "1.71 GB",
+        "pic_url": "http://i60.fastpic.ru/big/2013/1207/9a/a0860c2672939e074b2ce4903da6e79a.jpg"
     },
-    "5185003": {
-        "Description": "Стражи Галактики / Guardians of the Galaxy (Джеймс Ганн / James Gunn) [2014, США, Фантастика, боевик, приключения, BDRip] Dub",
-        "Downloads": 98227,
-        "Seeders": "265",
-        "Leechers": "8",
-        "GB": "1.46 GB"
-    },
-    "3785125": {
-        "Description": "Лучшие годы нашей жизни / The Best Years of Our Lives (Уильям Уайлер / William Wyler) [1946, США, драма, DVDRip] AVO (Алексей Медведев)",
-        "Downloads": 5119,
-        "Seeders": "1",
-        "Leechers": "0",
-        "GB": "1.46 GB"
+    "5614039": {
+        "Description": "Стражи Галактики / Guardians of the Galaxy (Джеймс Ганн / James Gunn) [2014, США, фантастика, боевик, приключения, BDRip] [IMAX Edition] AVO (Гаврилов)",
+        "Downloads": 3479,
+        "Seeders": "33",
+        "Leechers": "2",
+        "GB": "1.46 GB",
+        "pic_url": "http://i99.fastpic.ru/big/2018/0915/1d/6e1001a338fc8dc130702cac06a87f1d.jpg"
     },
     "3180034": {
         "Description": "Пираты Карибского моря: Проклятие Чёрной Жемчужины / Pirates of the Caribbean: The Curse of the Black Pearl (Гор Вербински / Gore Verbinski) [2003, США, фэнтези, приключения, HDRip] Dub",
-        "Downloads": 108892,
-        "Seeders": "137",
-        "Leechers": "2",
-        "GB": "1.46 GB"
-    },
-    "2830545": {
-        "Description": "Изгоняющий дьявола / The Exorcist (Уильям Фридкин / William Friedkin) [1973, США, ужасы, триллер, драма, BDRip] [Режиссерская версия / Director's Cut] Dub",
-        "Downloads": 37360,
-        "Seeders": "12",
+        "Downloads": 109021,
+        "Seeders": "108",
         "Leechers": "0",
-        "GB": "1.46 GB"
+        "GB": "1.46 GB",
+        "pic_url": "http://i10.fastpic.ru/big/2010/0925/6a/fbc6677545430722382bab669cd0e66a.jpeg"
+    },
+    "4670236": {
+        "Description": "Лучшие годы нашей жизни / The Best Years of Our Lives (Уильям Уайлер / William Wyler) [1946, США, драма, мелодрама, BDRip] DVO (НТВ)",
+        "Downloads": 5031,
+        "Seeders": "11",
+        "Leechers": "0",
+        "GB": "1.46 GB",
+        "pic_url": "http://i3.imageban.ru/out/2014/02/15/74d941f5b90ac78bfe6f5ac1b01f48c3.png]newproject.png"
+    },
+    "3559114": {
+        "Description": "Изгоняющий дьявола / The Exorcist (Уильям Фридкин / William Friedkin) [1973, США, ужасы, мистика, DVDRip] AVO А.Михалев + AVO Ю.Живов + VO неизвестный перец + Sub rus + original eng",
+        "Downloads": 5345,
+        "Seeders": "3",
+        "Leechers": "1",
+        "GB": "2.5 GB",
+        "pic_url": "http://i20.fastpic.ru/big/2011/0505/c9/ec564d5c241d4484d7a7a6a597c071c9.png"
+    },
+    "3102571": {
+        "Description": "Собачий полдень / Dog Day Afternoon (Сидни Люмет / Sidney Lumet) [1975, США, криминал, драма, триллер, HDRip] MVO",
+        "Downloads": 4358,
+        "Seeders": "3",
+        "Leechers": "1",
+        "GB": "746.6 MB",
+        "pic_url": "http://i48.fastpic.ru/big/2013/0603/c8/1991f433dcd4f589ac1abda63357abc8.jpg"
     }
 }
