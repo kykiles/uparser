@@ -50,5 +50,5 @@ class ParserFilms(object):
         response = self._session.get(_url_download, headers=self._HEADERS,
                                      params={'t': film_code})
 
-        # file_name = film_code + '_' + ParserFilms.name_splitter(file_name).split('[', 1)[0]
+        file_name = film_code + '_' + ParserFilms.name_splitter(file_name).split('[', 1)[0]
         return file_name, response.content
