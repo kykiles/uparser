@@ -29,7 +29,7 @@ def create_inline_row(row_width, *buttons):
 
 
 def random_film(keys):
-    if not keys:
+    if 'top_250' in keys:
         data = services.top250()
     else:
         data = services.search(keys)
@@ -69,9 +69,11 @@ def film_poster(code, description=None):
 def switch_query(inline_query, default=None):
     offset = inline_query.offset
     if default:
+        switch = 'top_250'
         result = services.top250()
     else:
-        result = services.search(inline_query.query)
+        switch = inline_query.query
+        result = services.search(switch)
 
     len_result = len(result)
     result = services.counter_result_search(result, 5)
@@ -128,7 +130,7 @@ def switch_query(inline_query, default=None):
 
     bot.answer_inline_query(inline_query.id, [*r], next_offset=offset,
                             switch_pm_text=f'Найдено результатов: {len_result}',
-                            switch_pm_parameter=inline_query.query)
+                            switch_pm_parameter=switch)
 
 
 @bot.message_handler(commands=['start'])
