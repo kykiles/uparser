@@ -28,6 +28,12 @@ def create_inline_row(row_width, *buttons):
     return markup
 
 
+def random_film(data):
+    random_choice = choice(list(data.keys()))
+    len_result = str(len(data))
+    return random_choice, len_result
+
+
 def film_poster(code, description=None):
     if not description:
         description = services.get_name_by_code(code)
@@ -64,9 +70,6 @@ def switch_query(inline_query, default=None):
     else:
         result = services.search(inline_query.query)
 
-    if result:
-        random_choice = choice(list(result.keys()))
-        len_result = str(len(result.keys()))
     result = services.counter_result_search(result, 5)
     r = []  # Список результата запроса
 
@@ -89,7 +92,6 @@ def switch_query(inline_query, default=None):
         offset = '1'
 
     page = result[len(offset)]
-    # services.get_thumbs_from_list(page.keys())  # Подгружает миниатюры
 
     for code, description in page.items():
         description = film_poster(code, description)[code]
@@ -120,9 +122,10 @@ def switch_query(inline_query, default=None):
                                                 thumb_url=pic_url,
                                                 reply_markup=description['Markup']))
 
+    rd_film = random_film(result)
     bot.answer_inline_query(inline_query.id, [*r], next_offset=offset,
-                            switch_pm_text=f'Найдено результатов: {len_result}',
-                            switch_pm_parameter=random_choice)
+                            switch_pm_text=f'Найдено результатов: {rd_film[1]}',
+                            switch_pm_parameter=rd_film[0])
 
 
 @bot.message_handler(commands=['start'])
