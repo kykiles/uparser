@@ -134,7 +134,7 @@ def switch_query(inline_query, default=None):
 def start_option(message):
     query = message.text.split(' ', 1)
     if len(query) == 2:
-        code = random_film(query[1])
+        code = query[1]
         description = film_poster(code)[code]
         pic_url = description.get('Pic')
         bot.send_message(message.chat.id,
