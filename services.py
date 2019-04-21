@@ -46,7 +46,8 @@ class Services:
 
     @staticmethod
     def poster(url):
-        if 'newproject.png' in url:
+        status_code = ParserFilms.get_requests_status_code(url)
+        if status_code != 200:
             url = Services.get_empty_thumb_url()
         return f'<a href="{url}">&#8205;</a>'
 

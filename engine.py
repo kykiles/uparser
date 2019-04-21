@@ -24,6 +24,11 @@ class ParserFilms(object):
         return response.text
 
     @staticmethod
+    def get_requests_status_code(url):
+        status_code = requests.get(url).status_code
+        return status_code
+
+    @staticmethod
     def get_pic_href(html_page):
         tree = html.fromstring(html_page)
         href = tree.xpath('//var[@class="postImg postImgAligned img-right"]')
