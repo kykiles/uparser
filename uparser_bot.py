@@ -73,7 +73,7 @@ def switch_query(inline_query, default=None):
         result = services.top250()
     else:
         switch = inline_query.query
-        result = services.search(switch)
+        result = services.search(inline_query.query)
 
     len_result = len(result)
     result = services.counter_result_search(result, 5)
@@ -130,7 +130,7 @@ def switch_query(inline_query, default=None):
 
     bot.answer_inline_query(inline_query.id, [*r], next_offset=offset,
                             switch_pm_text=f'Найдено результатов: {len_result}',
-                            switch_pm_parameter=switch)
+                            switch_pm_parameter=str(switch))
 
 
 @bot.message_handler(commands=['start'])
