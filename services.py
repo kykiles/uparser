@@ -46,6 +46,8 @@ class Services:
 
     @staticmethod
     def poster(url):
+        if 'newproject.png' in url:
+            url = Services.get_empty_thumb_url()
         return f'<a href="{url}">&#8205;</a>'
 
     def search(self, words):
