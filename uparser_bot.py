@@ -70,6 +70,7 @@ def switch_query(inline_query, default=None):
     else:
         result = services.search(inline_query.query)
 
+    rd_film = random_film(result)
     result = services.counter_result_search(result, 5)
     r = []  # Список результата запроса
 
@@ -122,7 +123,6 @@ def switch_query(inline_query, default=None):
                                                 thumb_url=pic_url,
                                                 reply_markup=description['Markup']))
 
-    rd_film = random_film(result)
     bot.answer_inline_query(inline_query.id, [*r], next_offset=offset,
                             switch_pm_text=f'Найдено результатов: {rd_film[1]}',
                             switch_pm_parameter=rd_film[0])
