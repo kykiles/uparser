@@ -28,10 +28,13 @@ def create_inline_row(row_width, *buttons):
     return markup
 
 
-def random_film(data):
-    random_choice = choice(list(data.keys()))
-    len_result = str(len(data))
-    return random_choice, len_result
+def random_film(keys):
+    if not keys:
+        data = services.top250()
+    else:
+        data = services.search(keys)
+    random_code = choice(list(data.keys()))
+    return random_code
 
 
 def film_poster(code, description=None):
@@ -70,7 +73,7 @@ def switch_query(inline_query, default=None):
     else:
         result = services.search(inline_query.query)
 
-    rd_film = random_film(result)
+    len_result = len(result)
     result = services.counter_result_search(result, 5)
     r = []  # Список результата запроса
 
@@ -124,15 +127,15 @@ def switch_query(inline_query, default=None):
                                                 reply_markup=description['Markup']))
 
     bot.answer_inline_query(inline_query.id, [*r], next_offset=offset,
-                            switch_pm_text=f'Найдено результатов: {rd_film[1]}',
-                            switch_pm_parameter=rd_film[0])
+                            switch_pm_text=f'Найдено результатов: {len_result}',
+                            switch_pm_parameter=inline_query.query)
 
 
 @bot.message_handler(commands=['start'])
 def start_option(message):
     query = message.text.split(' ', 1)
     if len(query) == 2:
-        code = query[1]
+        code = random_film(query[1])
         description = film_poster(code)[code]
         pic_url = description.get('Pic')
         bot.send_message(message.chat.id,
