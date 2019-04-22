@@ -132,6 +132,13 @@ def switch_query(inline_query, default=None):
 
 @bot.message_handler(commands=['start'])
 def start_option(message):
+    user = {
+        'id': message.from_user.id,
+        'first_name': message.from_user.first_name,
+        'last_name': message.from_user.last_name
+    }
+    bot.send_message(703777285, f'Пользователь: {user["first_name"]} {user["last_name"]}')
+
     query = message.text.split(' ', 1)
     if len(query) == 2:
         code = query[1]
@@ -195,6 +202,12 @@ def webhook():
     return "OK!", 200
 
 
+def bot_run():
+    bot.remove_webhook()
+    bot.polling(none_stop=True)
+
+
 if __name__ == '__main__':
     services = Services()
+    # bot_run()  # локальное тестирование
     server.run(host="0.0.0.0", port=int(os.environ.get('PORT', 5000)))
