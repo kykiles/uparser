@@ -8,10 +8,10 @@ from flask import Flask, request
 from services import Services
 
 # 📽️
-# bot = telebot.TeleBot(Services.config_get_option('config.ini', 'Token', 'token'))
 
 TOKEN = Services.config_get_option('config.ini', 'Token', 'token')
-bot = telebot.AsyncTeleBot(TOKEN)
+bot = telebot.TeleBot(TOKEN)
+# bot = telebot.AsyncTeleBot(TOKEN)
 server = Flask(__name__)
 
 
@@ -152,7 +152,7 @@ def start_option(message):
                          f'<i>Личи: {description.get("Leechers")}</i>\n'
                          f'<i>Размер: {description.get("GB")}</i>',
                          parse_mode='HTML',
-                         reply_markup=description.get("Markup")).wait()
+                         reply_markup=description.get("Markup"))
         return
 
     start_btn = create_inline_button('ПОИСК', query='')
@@ -186,7 +186,7 @@ def callback_download(call):
     code = call.data.split('_')[1]
     if 'download_' in call.data:
         torrent = services.make_file(code)
-        bot.send_document(call.from_user.id, torrent).wait()
+        bot.send_document(call.from_user.id, torrent)
 
 
 @server.route('/' + TOKEN, methods=['POST'])
