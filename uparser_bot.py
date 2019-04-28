@@ -11,7 +11,7 @@ from services import Services
 
 TOKEN = Services.config_get_option('config.ini', 'Token', 'token')
 bot = telebot.TeleBot(TOKEN)
-# bot = telebot.AsyncTeleBot(TOKEN)
+# bot = telebot.AsyncTeleBot(TOKEN)  # Не всё корректно работает
 server = Flask(__name__)
 
 
