@@ -10,8 +10,8 @@ from services import Services
 # 📽️
 
 TOKEN = Services.config_get_option('config.ini', 'Token', 'token')
-bot = telebot.TeleBot(TOKEN)
-# bot = telebot.AsyncTeleBot(TOKEN)  # Не всё корректно работает
+# bot = telebot.TeleBot(TOKEN)
+bot = telebot.AsyncTeleBot(TOKEN)  # Не всё корректно работает
 server = Flask(__name__)
 
 
@@ -28,12 +28,12 @@ def create_inline_row(row_width, *buttons):
     return markup
 
 
-def random_film(data):
-    if not data:
-        return
-    random_code = choice(list(data.keys()))
-    len_result = len(data)
-    return random_code, len_result
+def random_film(query):
+    if query == 'default':
+        result = services.top250()
+    else:
+        result = services.search(query)
+    return choice(list(result.keys()))
 
 
 def film_poster(code, description=None):
@@ -67,15 +67,15 @@ def film_poster(code, description=None):
 
 def switch_query(inline_query, default=None):
     offset = inline_query.offset
+    query = inline_query.query
+
     if default:
+        query = 'default'
         result = services.top250()
     else:
-        result = services.search(inline_query.query)
+        result = services.search(query)
 
-    random_code, len_result = random_film(result)
-    result = services.counter_result_search(result, 5)
     r = []  # Список результата запроса
-
     if not result:
         url = services.get_empty_thumb_url()
         r.append(types.InlineQueryResultArticle('Empty',
@@ -85,6 +85,9 @@ def switch_query(inline_query, default=None):
                                                 thumb_url=url))
         bot.answer_inline_query(inline_query.id, [*r])
         return
+
+    len_result = len(result)
+    result = services.counter_result_search(result, 5)
 
     if offset:
         if len(offset) < len(result):
@@ -127,11 +130,10 @@ def switch_query(inline_query, default=None):
 
     bot.answer_inline_query(inline_query.id, [*r], next_offset=offset,
                             switch_pm_text=f'Найдено результатов: {len_result}',
-                            switch_pm_parameter=random_code)
+                            switch_pm_parameter=query)
 
 
-@bot.message_handler(commands=['start'])
-def start_option(message):
+def get_user(message):
     user = {
         'id': message.from_user.id,
         'first_name': message.from_user.first_name,
@@ -139,9 +141,13 @@ def start_option(message):
     }
     bot.send_message(703777285, f'Пользователь: {user["first_name"]} {user["last_name"]}')
 
+
+@bot.message_handler(commands=['start'])
+def start_option(message):
+    get_user(message)
     query = message.text.split(' ', 1)
     if len(query) == 2:
-        code = query[1]
+        code = random_film(query[1])
         description = film_poster(code)[code]
         pic_url = description.get('Pic')
         bot.send_message(message.chat.id,
