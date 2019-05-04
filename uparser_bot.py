@@ -28,12 +28,8 @@ def create_inline_row(row_width, *buttons):
     return markup
 
 
-def random_film(query):
-    if query == 'default':
-        result = services.top250()
-    else:
-        result = services.search(query)
-    return choice(list(result.keys()))
+def random_film(data):
+    return choice(list(data.keys())), len(data)
 
 
 def film_poster(code, description=None):
@@ -70,7 +66,6 @@ def switch_query(inline_query, default=None):
     query = inline_query.query
 
     if default:
-        query = 'default'
         result = services.top250()
     else:
         result = services.search(query)
@@ -86,7 +81,7 @@ def switch_query(inline_query, default=None):
         bot.answer_inline_query(inline_query.id, [*r])
         return
 
-    len_result = len(result)
+    random_code, len_result = random_film(result)
     result = services.counter_result_search(result, 5)
 
     if offset:
@@ -130,7 +125,7 @@ def switch_query(inline_query, default=None):
 
     bot.answer_inline_query(inline_query.id, [*r], next_offset=offset,
                             switch_pm_text=f'Найдено результатов: {len_result}',
-                            switch_pm_parameter=query)
+                            switch_pm_parameter=random_code)
 
 
 def get_user(message):
@@ -147,7 +142,7 @@ def start_option(message):
     get_user(message)
     query = message.text.split(' ', 1)
     if len(query) == 2:
-        code = random_film(query[1])
+        code = query[1]
         description = film_poster(code)[code]
         pic_url = description.get('Pic')
         bot.send_message(message.chat.id,
