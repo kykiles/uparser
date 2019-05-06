@@ -124,7 +124,7 @@ def switch_query(inline_query, default=None):
                                                 reply_markup=description['Markup']))
 
     bot.answer_inline_query(inline_query.id, [*r], next_offset=offset,
-                            switch_pm_text=f'Найдено результатов: {len_result}',
+                            switch_pm_text=f'Случайный фильм из: {len_result}',
                             switch_pm_parameter=random_code)
 
 
