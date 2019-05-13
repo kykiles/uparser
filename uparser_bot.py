@@ -139,7 +139,8 @@ def get_user(message):
 
 @bot.message_handler(commands=['start'])
 def start_option(message):
-    get_user(message)
+    get_user(message)  # Отправляет мне данные пользователя, который использует команду /start
+
     query = message.text.split(' ', 1)
     if len(query) == 2:
         code = query[1]
